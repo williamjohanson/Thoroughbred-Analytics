@@ -1,0 +1,1047 @@
+b'\n\n\n\nbody {margin: 0}\nTAB Extended Form\n\n\nBest Bets - Extended
+FormM11Randwick Races (NSW)Sat 11 Apr
+2020Track:SoftWeather:OvercastR1R2R3R4R5R6R7R8R9R10R2THE AGENCY SOUTH PACIFIC
+CLASSIC 14002.10pmStakes:$163,000Rating:3YO LISTEDRail:+4m Entire CircuitGear
+Changes:NEVER LISTEN (3) - Concussion Plates (Front) ON, Synthetic Hoof Filler
+ON. KNICKPOINT (7) - Winkers ON. HAVIN\' FUN (10) - Blinkers ON. DONANDKIM
+(11) - Blinkers ON.No.SilkFormNameJockeyExpand allCollapse all01114X6Yao Dash
+(1) 3 g brownTim Clark0265X13Hilo (5) 3 g bay brownRachel King034612XNever
+Listen (8) 3 f brownRobbie Dolan0443194Spend (10) 3 c bayJames
+McDonald0511X14Mirra Vision (12) 3 f brownKerrin McEvoy0614521Chat (4) 3 g
+chestnutGlen Boss077X414Knickpoint (11) 3 c bayBrenton Avdulla082X116Icebath
+(6) 3 f brownJason Collett09148X1Indy Car (7) 3 g chestnutTom
+Marquand10X6730Havin\' Fun (9) 3 f baySam Clipperton11113X9Donandkim (3) 3 g
+bayJames Innes Jnr126X520Aesop\'s Fable (2) 3 f bay brownJean Van
+OvermeireBack to top\n\n(function() {\n var div = document.body.children[0];\n
+var state =
+{"races":{"2020-04-11-m11-r2":{"status":"SUCCESS","data":{"channel":"ts1","class":"3YO
+LISTED","country":"aus","entries":[{"jockey":{"declared_rides":[{"e_number":1,"e_runner":"Postcode","m_number":11,"r_key":"2020-04-11-m11-r1","r_number":1},{"e_number":1,"e_runner":"Yao
+Dash","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":13,"e_runner":"Oakfield
+Missile","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":9,"e_runner":"Vangelic","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":10,"e_runner":"Anaheed","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":8,"e_runner":"Dorothy
+Of
+Oz","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":3,"e_runner":"Hush
+Writer","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":10,"e_runner":"Master
+Of
+Wine","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":3,"e_runner":"Con
+Te
+Partiro","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":1,"e_runner":"I
+Am
+Excited","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Tim
+Clark","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"1","barrier_distance":"59","breeders":null,"breeding":"Smart
+Missile","breeding_extra":"Rahy Storm (USA) (by Rahy
+(USA))","class":null,"colour":"brown","comment":"Usually prominent. Well
+placed from the perfect draw. One of the major
+players.","fastest":null,"form":"114X6","jockey":"Tim
+Clark","jockey_extra":"","notes":[],"number":1,"owners":"Dynamic Syndications
+Racing (Mgr: D W Watt), J W Sutherland, Ms L Cotter, S J McGee, G J McMahon, S
+M Browne, P Bray, J T Storey, Champagne Sundays (Mgr: B Quinn), K T Gunn, N W
+Kim & Almighty Racing Pty Ltd (Mgr: B K
+Ong)","performance":[{"date":"2020-03-07","filters":["Soft"],"record":["RAND","07
+Mar 2020","161 days 1st up 6th of 7","FIREBALL $152K 1100m S","2nd otr to
+400,fght,faded 200m","Nash Rawiller [R82] 56 (2) Starting price - $4.00","1st:
+Villami 01:02.26
+7L"]},{"date":"2019-09-28","filters":["Good"],"record":["RHIL","28 Sep
+2019","21 days 4th of 8","GOLDEN ROSE $1110K 1400m G","Strait to lead,tkld,hdd
+250,fought","Adam Hyeronimus [R72] 56.5 (4) Starting price - $9.50","1st:
+Bivouac 01:21.88
+1.5L"]},{"date":"2019-09-07","filters":["Soft"],"record":["RAND","07 Sep
+2019","17 days 1st of 8","3Y BM72 $136K 1300m S","Strait to
+lead,dictated,kikd,gd rd","Nash Rawiller [R66] 57 (6) Starting price -
+$3.30","2nd: Funstar 01:16.23
+0.5L"]},{"date":"2019-08-21","filters":["Good"],"record":["CANT","21 Aug
+2019","1st of 6","3YCG MDN $54K 1200m G","2nd outer,smart victory","Nash
+Rawiller 57.5 (3) Starting price - $2.00","2nd: Petronius 01:09.48
+3.5L"]}],"runner":"Yao Dash","scratched":false,"sex":"g","silk_text":"WHITE,
+DYNAMIC SYNDICATIONS LOGO, RED
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-03DD643D823AC6B79DA10650E6D14F20.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"4:2:0:0:0"},{"type":"Fresh90","value":"2:1:0"},{"type":"2nd
+Up","value":"1:1:0"},{"type":"Distance","value":"1:0:0"},{"type":"Course","value":"2:1:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"2:1:0"},{"type":"Soft","value":"2:1:0"},{"type":"Heavy","value":"0:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"2:1:0"}],"plc_div":null,"plc_rate":"50","prize":"$176,000","prize2":null,"win_div":null,"win_rate":"50"},"trainer":"Waterhouse/Bott","trainer_district":"Randwick","weight":59,"win_record":["08/19
+CANT G 3YCG MDN $54K 1200 57.5 (3) 1:09.48","09/19 RAND S 3Y BM72 $136K 1300
+[R66] 57 (6)
+1:16.23"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":2,"e_runner":"Hilo","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":1,"e_runner":"McCormack","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":14,"e_runner":"Forbidden
+Love","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":9,"e_runner":"Flit","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":10,"e_runner":"Aspect
+Ratio","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":11,"e_runner":"Sweet
+Thomas","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":6,"e_runner":"Invincible
+Gem","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":5,"e_runner":"Pretty
+in
+Pink","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Rachel
+King","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"5","barrier_distance":"57.5","breeders":null,"breeding":"Lonhro","breeding_extra":"Kona
+(by New Approach (IRE))","class":null,"colour":"bay brown","comment":"Fitter
+for 2 runs back. Excels on rain affected trks. Take
+beating.","fastest":null,"form":"65X13","jockey":"Rachel
+King","jockey_extra":"","notes":[],"number":2,"owners":"Godolphin
+","performance":[{"date":"2020-03-21","filters":["Soft"],"record":["RHIL","21
+Mar 2020","17 days 2nd up 3rd of 8","DARBYMUNRO $152K 1200m S","6th 3w,cvr
+500,out,solid finish wd","Hugh Bowman [R78] 56 (7) Starting price -
+$4.60","1st: California Zimbol 01:10.42
+0.5L"]},{"date":"2020-03-04","filters":["Soft"],"record":["KENS","04 Mar
+2020","116 days 1st up 1st of 7","CG&E; BM70 $54K 1250m S","3rd wide,cruised
+home","Ms Rachel King [R70] 60.5 (6) Starting price - $2.50","2nd: Montserrat
+01:13.88 4.5L"]},{"date":"2019-11-09","filters":["Good"],"record":["FLEM","09
+Nov 2019","7 days 5th of 10","HILTON $192K 1400m G","Strait to lead,kikd,hdd
+200,fght on","Damian Lane [R71] 60 (6) Starting price - $9.50","1st: Banquo
+01:24.09 1.4L"]},{"date":"2019-11-02","filters":["Soft"],"record":["FLEM","02
+Nov 2019","14 days 6th of 10","CARBINE CLUB $545K 1600m S","Soon led,kikd,hdd
+200,no extra","Craig Williams [R72] 57 (9) Starting price - $9.50","1st:
+Dalasan 01:38.05
+4.7L"]},{"date":"2019-10-19","filters":["Good"],"record":["CAUL","19 Oct
+2019","2nd of 10","GOTHIC STAKES $191K 1400m G","Soon led,tkld 300,hdd
+200,fght hard","Damian Lane [R68] 55 (4) Starting price - $3.40","1st: Alabama
+Express 01:23.66
+0.2L"]}],"runner":"Hilo","scratched":false,"sex":"g","silk_text":"ROYAL
+BLUE","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-BEB7E0FAE8B1A0FC261286D39AF45DEA.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"9:3:1:1:0"},{"type":"Fresh90","value":"3:2:0"},{"type":"2nd
+Up","value":"2:1:1"},{"type":"Distance","value":"3:0:1"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"4:1:1"},{"type":"Soft","value":"5:2:1"},{"type":"Heavy","value":"0:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"5:2:1"}],"plc_div":null,"plc_rate":"56","prize":"$176,000","prize2":null,"win_div":null,"win_rate":"33"},"trainer":"James
+Cummings","trainer_district":"Agnes Banks","weight":57.5,"win_record":["1st up
+03/20 KENS S CG&E; BM70 $54K 1250 [R70] 60.5 (6)
+1:13.88"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":3,"e_runner":"Never
+Listen","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":12,"e_runner":"Mary
+Valley","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":3,"e_runner":"Splintex","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":14,"e_runner":"Bangkok","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Robbie
+Dolan","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"8","barrier_distance":"57","breeders":null,"breeding":"Trusting","breeding_extra":"Rose
+O\' War (by Danehill (USA))","class":null,"colour":"brown","comment":"Fitter
+for 9L 5th 900m Mus\'brook trial Good(3) Mar 22. Not
+keen.","fastest":null,"form":"4612X","jockey":"Robbie
+Dolan","jockey_extra":"","notes":[],"number":3,"owners":"Ramsey Pastoral Pty
+Ltd (Mgr: S B
+Ramsey)","performance":[{"date":"2019-11-07","filters":["Good"],"record":["FLEM","07
+Nov 2019","13 days 2nd of 14","VRC OAKS $1090K 2500m G","5bk inr,out wd
+400,ran on strongly","Darryl McLellan [R64] 55.5 (5) Starting price -
+$41.00","1st: Miami Bound (NZ) 02:38.32
+3.25L"]},{"date":"2019-10-25","filters":["Good"],"record":["SCNE","25 Oct
+2019","6 days 1st of 8","BM58 $33K 2200m G","","Darryl McLellan [R54] 54 (3)
+Starting price - $3.60","2nd: Villarrica 02:18.63
+8.16L"]},{"date":"2019-10-19","filters":["Good"],"record":["NCLE","19 Oct
+2019","14 days 6th of 7","CL1-SW $38K 2350m G","","Darryl McLellan [R54] 55.5
+(1) Starting price - $8.50","1st: Amazing Peace 02:31.07
+6.11L"]},{"date":"2019-10-05","filters":["Soft"],"record":["NCLE","05 Oct
+2019","14 days 4th of 12","BM64 $38K 1870m S","","Darryl McLellan [R54] 54 (9)
+Starting price - $21.00","1st: Nothing Too Hard 01:56.51
+1.2L"]},{"date":"2019-09-21","filters":["Good"],"record":["NCLE","21 Sep
+2019","3rd of 6","CL1-SW $38K 1850m G","","Darryl McLellan [R54] 55.5 (5)
+Starting price - $31.00","1st: Carif 01:58.20 3.52L"]}],"runner":"Never
+Listen","scratched":false,"sex":"f","silk_text":"GREEN, WHITE BRACES, YELLOW
+HOOPED SLEEVES AND
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-59F9AEC41E428D9670CF0C175E379788.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"10:2:1:1:0"},{"type":"Fresh90","value":"2:0:0"},{"type":"2nd
+Up","value":"2:0:0"},{"type":"Distance","value":"1:1:0"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"8:2:2"},{"type":"Soft","value":"1:0:0"},{"type":"Heavy","value":"1:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"1:0:0"}],"plc_div":null,"plc_rate":"40","prize":"$248,000","prize2":null,"win_div":null,"win_rate":"20"},"trainer":"John
+Ramsey","trainer_district":"Scone","weight":57,"win_record":["10/19 SCNE G
+BM58 $32K 2200 [R54] 54 (3)
+2:18.63"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":4,"e_runner":"Spend","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":2,"e_runner":"Through
+the
+Cracks","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":1,"e_runner":"Dame
+Giselle","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":1,"e_runner":"Cosmic
+Force","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":3,"e_runner":"Nudge","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":1,"e_runner":"Danon
+Premium","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":17,"e_runner":"Funstar","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":3,"e_runner":"Savatiano","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":"2020-01-01","name":"James
+McDonald","rides_since_win":0,"stats":[{"type":"Fav","value":"(1148:363:229:147)
+.470"},{"type":"2nd Fav","value":"(726:151:136:102)
+.359"},{"type":"Wint","value":"(674:113:104:84)
+.295"},{"type":"2018S","value":"(9:4:3:0)
+.630"},{"type":"2019S","value":"(12:7:2:2)
+.731"},{"type":"NZCareer","value":"(4341:736:627:528)
+.290"},{"type":"Stakes","value":"(364:60:45:31)
+.262"}],"suspended":24},"runner":{"age":3,"barrier":"10","barrier_distance":"57","breeders":null,"breeding":"Snitzel","breeding_extra":"Walk
+With Attitude (by Hussonet (USA))","class":null,"colour":"bay","comment":"Gave
+good account under 60kg last outing. On pacer. Handles the wet. Has
+claims.","fastest":null,"form":"43194","jockey":"James
+McDonald","jockey_extra":"","notes":[],"number":4,"owners":"Spendthrift
+Australia (Mgrs: B W Hughes & G Cuddy) & New South Wales Pastoral Company
+(Mgr: J L
+Muir)","performance":[{"date":"2020-03-28","filters":["Good"],"record":["BDGO","28
+Mar 2020","7 days 4th of 15","BDGO GUINEAS $163K 1400m G","2nd outr, chal tn,
+fght,close","Dwayne Dunn [R78] 60 (3) Starting price - $4.00","1st: Riddle Me
+That 01:24.02
+0.3L"]},{"date":"2020-03-21","filters":["Soft"],"record":["RHIL","21 Mar
+2020","14 days 9th of 9","GEO RYDER $1090K 1500m S","","Tim Clark [R78] 56 (5)
+Starting price - $26.00","1st: Dreamforce 01:30.15
+4.8L"]},{"date":"2020-03-07","filters":["Soft"],"record":["FLEM","07 Mar
+2020","14 days 1st of 11","3Y HCP $148K 1400m S","2nd otr,chl cnr,led
+300,kikd,strong","Dwayne Dunn [R72] 54 (7) Starting price - $4.80","2nd:
+Riddle Me That 01:22.83
+1L"]},{"date":"2020-02-22","filters":["Good"],"record":["CAUL","22 Feb
+2020","21 days 3rd of 7","ZEDITAVE $175K 1200m G","","Dwayne Dunn [R68] 56 (7)
+Starting price - $5.50","1st: He\'ll Haunt Us 01:09.28
+0.4L"]},{"date":"2020-02-01","filters":["Soft"],"record":["CAUL","01 Feb
+2020","4th of 6","MANFRED $174K 1200m S","2nd otr to 300,battled,no
+dash","Dwayne Dunn [R68] 57 (5) Starting price - $4.40","1st: Super Seth
+01:12.83
+4.2L"]}],"runner":"Spend","scratched":false,"sex":"c","silk_text":"ORANGE,
+PURPLE QUARTERS WITH YELLOW
+SEAMS","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-A3672F35BA109A55D89827D9CDE87D0D.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"6:2:0:1:0"},{"type":"Fresh90","value":"2:1:0"},{"type":"2nd
+Up","value":"1:0:1"},{"type":"Distance","value":"2:1:0"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"2:0:1"},{"type":"Soft","value":"3:1:0"},{"type":"Heavy","value":"1:1:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"3:1:0"}],"plc_div":null,"plc_rate":"50","prize":"$209,000","prize2":null,"win_div":null,"win_rate":"33"},"trainer":"M,
+W & J Hawkes","trainer_district":"Rosehill","weight":57,"win_record":["03/20
+FLEM S 3Y HCP $148K 1400 [R72] 54 (7)
+1:22.83"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":5,"e_runner":"Mirra
+Vision","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":15,"e_runner":"Moana
+Jewel","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":13,"e_runner":"Chianti","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":5,"e_runner":"Groundswell","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":7,"e_runner":"Toffee
+Tongue","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":6,"e_runner":"The
+Chosen
+One","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":13,"e_runner":"Melody
+Belle","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":9,"e_runner":"Manicure","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":"2003-05-03","name":"Kerrin
+McEvoy","rides_since_win":8,"stats":[{"type":"Stakes","value":"(55:5:3:8)
+.170"},{"type":"2002S","value":"(33:4:3:5)
+.222"},{"type":"2001S","value":"(67:3:5:7)
+.121"},{"type":"2000S","value":"(37:5:2:5)
+.210"},{"type":"Wint","value":"(36:3:4:3) .173"},{"type":"2nd
+Fav","value":"(0:0:0:0) .000"},{"type":"Fav","value":"(0:0:0:0)
+.000"},{"type":"NZCareer","value":"(166:16:14:18)
+.179"}],"suspended":0},"runner":{"age":3,"barrier":"12","barrier_distance":"54.5","breeders":null,"breeding":"Lonhro","breeding_extra":"Mirrasalo
+(by Redoute\'s Choice)","class":null,"colour":"brown","comment":"Just behind
+the placegetters at Rosehill last time out. Fitter third-
+up.","fastest":null,"form":"11X14","jockey":"Kerrin
+McEvoy","jockey_extra":"","notes":[],"number":5,"owners":"Bennelong Bloodstock
+Pty Ltd (Mgr: P
+Campbell)","performance":[{"date":"2020-03-21","filters":["Soft"],"record":["RHIL","21
+Mar 2020","17 days 2nd up 4th of 8","DARBYMUNRO $152K 1200m S","4th inr to
+400,out,loomed,fght well","Tommy Berry [R72] 54 (2) Starting price -
+$3.70","1st: California Zimbol 01:10.42
+0.7L"]},{"date":"2020-03-04","filters":["Soft"],"record":["KENS","04 Mar
+2020","149 days 1st up 1st of 9","F&M; BM70 $54K 1250m S","Handy wide,brave in
+str","Tommy Berry [R66] 58.5 (5) Starting price - $2.00","2nd: Avon River
+01:13.74 0.5L"]},{"date":"2019-10-07","filters":["Soft"],"record":["W FM","07
+Oct 2019","17 days 1st of 6","3Y BM70 $65K 1200m S","","Tim Clark [R61] 54.5
+(3) Starting price - $3.70","2nd: Special Snap 01:09.89
+0.1L"]},{"date":"2019-09-20","filters":["Soft"],"record":["NCLE","20 Sep
+2019","1st of 10","F&M; MDN-SW $38K 1200m S","","Tommy Berry 55.5 (1) Starting
+price - $3.00","2nd: Rockarosa 01:11.29 1.59L"]}],"runner":"Mirra
+Vision","scratched":false,"sex":"f","silk_text":"ROYAL BLUE, WHITE STARS ON
+SLEEVES, RED CAP, WHITE
+STARS","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-5613149C31EFB7F3CEC5E5D0DD03FDA5.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"4:3:0:0:0"},{"type":"Fresh90","value":"2:2:0"},{"type":"2nd
+Up","value":"2:1:0"},{"type":"Distance","value":"0:0:0"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"0:0:0"},{"type":"Soft","value":"4:3:0"},{"type":"Heavy","value":"0:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"4:3:0"}],"plc_div":null,"plc_rate":"75","prize":"$111,000","prize2":null,"win_div":null,"win_rate":"75"},"trainer":"P
+& P Snowden","trainer_district":"Randwick","weight":54.5,"win_record":["09/19
+NCLE S F&M; MDN-SW $38K 1200 55.5 (1) 1:11.29","10/19 W FM S 3Y BM70 $65K 1200
+[R61] 54.5 (3) 1:09.89","1st up 03/20 KENS S F&M; BM70 $54K 1250 [R66] 58.5
+(5)
+1:13.74"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":6,"e_runner":"Chat","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":12,"e_runner":"Electric
+Girl","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":2,"e_runner":"Away
+Game","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":4,"e_runner":"Colette","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":10,"e_runner":"Etah
+James","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":5,"e_runner":"Vow
+And
+Declare","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":2,"e_runner":"Nettoyer","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":4,"e_runner":"White
+Moss","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10},{"e_number":17,"e_runner":"Yamazaki","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":"2006-03-08","name":"Glen
+Boss","rides_since_win":27,"stats":[{"type":"2010S","value":"(3:0:0:0)
+.000"},{"type":"2009S","value":"(1:0:1:0)
+.556"},{"type":"2008S","value":"(10:0:0:2)
+.067"},{"type":"Wint","value":"(0:0:0:0) .000"},{"type":"2nd
+Fav","value":"(6:1:1:0) .259"},{"type":"Fav","value":"(5:1:1:2)
+.444"},{"type":"Stakes","value":"(25:1:3:2)
+.133"},{"type":"NZCareer","value":"(45:4:4:4)
+.168"}],"suspended":0},"runner":{"age":3,"barrier":"4","barrier_distance":"54","breeders":null,"breeding":"Deep
+Field","breeding_extra":"Only Words (by End Sweep
+(USA))","class":null,"colour":"chestnut","comment":"Good effort from handy
+position to win at W\'wick Fm at latest. Pacy.
+Consider.","fastest":null,"form":"14521","jockey":"Glen
+Boss","jockey_extra":"","notes":[],"number":6,"owners":"Mrs J E Mackay, T J
+Boland, L F Durney, D Findlay, J L Martin, A J Luciano, B G & Mrs J M Gowing,
+B G & Mrs A Mahony, J K & Mrs M Mitchell, J D Goetze, B M & Mrs T Cohen, P M
+Cohen, S Cohen & T M
+Cohen","performance":[{"date":"2020-03-25","filters":["Good"],"record":["W
+FM","25 Mar 2020","16 days 1st of 11","3Y BM70 $54K 1400m G","","Nash Rawiller
+[R68] 60 (1) Starting price - $3.10","2nd: Surreal Step 01:23.19
+0.8L"]},{"date":"2020-03-09","filters":["Soft"],"record":["CANB","09 Mar
+2020","26 days 2nd of 9","CANB GNEAS $166K 1400m S","","Nash Rawiller [R64] 56
+(8) Starting price - $10.00","1st: Promotions 01:23.79
+0.36L"]},{"date":"2020-02-12","filters":["Heavy"],"record":["W FM","12 Feb
+2020","16 days 5th of 10","3Y BM70 $54K 1400m H","","Nash Rawiller [R65] 58.5
+(3) Starting price - $3.80","1st: Thanks To You 01:24.79
+5.5L"]},{"date":"2020-01-27","filters":["Good"],"record":["W FM","27 Jan
+2020","19 days 4th of 12","CG&E; BM70 $65K 1400m G","","Ms Kathy O\'Hara [R65]
+57 (11) Starting price - $6.00","1st: Through the Cracks 01:22.33
+2L"]},{"date":"2020-01-08","filters":["Soft"],"record":["W FM","08 Jan
+2020","1st of 14","BM70 $54K 1300m S","","Ms Kathy O\'Hara [R60] 54.5 (5)
+Starting price - $5.00","2nd: Rari 01:17.36
+0.2L"]}],"runner":"Chat","scratched":false,"sex":"g","silk_text":"DARK BLUE
+AND WHITE HOOPS, WHITE SLEEVES, RED
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-03EB15743E25423043BEFA3322A4099C.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"11:3:1:1:0"},{"type":"Fresh90","value":"2:0:0"},{"type":"2nd
+Up","value":"2:0:0"},{"type":"Distance","value":"6:2:2"},{"type":"Course","value":"1:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"6:2:1"},{"type":"Soft","value":"4:1:1"},{"type":"Heavy","value":"1:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"4:1:1"}],"plc_div":null,"plc_rate":"45","prize":"$144,000","prize2":null,"win_div":null,"win_rate":"27"},"trainer":"John
+Thompson","trainer_district":"Randwick","weight":54,"win_record":["01/20 W FM
+S BM70 $54K 1300 [R60] 54.5 (5) 1:17.36","03/20 W FM G 3Y BM70 $54K 1400 [R68]
+60 (1)
+1:23.19"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":7,"e_runner":"Knickpoint","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":10,"e_runner":"Asharani","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":7,"e_runner":"Philizzy","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":12,"e_runner":"California
+Zimbol","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":5,"e_runner":"Game
+Of
+Thorns","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":4,"e_runner":"Raheen
+House","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":9,"e_runner":"Imaging","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":13,"e_runner":"Amangiri","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":7,"e_runner":"Fasika","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Brenton
+Avdulla","rides_since_win":0,"stats":[{"type":"2013S","value":"(3:0:0:0)
+.000"},{"type":"Wint","value":"(0:0:0:0) .000"},{"type":"2nd
+Fav","value":"(0:0:0:0) .000"},{"type":"Fav","value":"(0:0:0:0)
+.000"},{"type":"Stakes","value":"(3:0:0:0)
+.000"},{"type":"NZCareer","value":"(3:0:0:0)
+.000"}],"suspended":0},"runner":{"age":3,"barrier":"11","barrier_distance":"54","breeders":null,"breeding":"Carlton
+House (USA)","breeding_extra":"Klamath Falls (USA) (by Storm Cat
+(USA))","class":null,"colour":"bay","comment":"Wasn\'t all that far away at
+Canberra last start. Effective wet.
+EW.","fastest":null,"form":"7X414","jockey":"Brenton
+Avdulla","jockey_extra":"","notes":[],"number":7,"owners":"Godolphin
+","performance":[{"date":"2020-03-09","filters":["Soft"],"record":["CANB","09
+Mar 2020","10 days 3rd up 4th of 9","CANB GNEAS $166K 1400m S","","Kerrin
+McEvoy [R72] 56 (1) Starting price - $2.20","1st: Promotions 01:23.79
+2.87L"]},{"date":"2020-02-28","filters":["Good"],"record":["CANT","28 Feb
+2020","16 days 2nd up 1st of 7","BM74 $54K 1250m G","3-4th inr,thru 1-off
+tn,far too gd","James McDonald [R67] 57 (3) Starting price - $2.10","2nd:
+Crafty Tycoon 01:13.55
+2.3L"]},{"date":"2020-02-12","filters":["Heavy"],"record":["W FM","12 Feb
+2020","95 days 1st up 4th of 11","BM70 $54K 1200m H","Settled 8th,battled
+on","James McDonald [R67] 59 (8) Starting price - $1.60","1st: Epic Dan
+01:12.03 4L"]},{"date":"2019-11-09","filters":["Good"],"record":["FLEM","09
+Nov 2019","21 days 7th of 10","HILTON $192K 1400m G","10th otr,wdst cnr,out
+400,ran on wd","Craig Williams [R68] 58.5 (9) Starting price - $2.40","1st:
+Banquo 01:24.09
+2.6L"]},{"date":"2019-10-19","filters":["Good"],"record":["NCLE","19 Oct
+2019","1st of 9","BM64 $38K 1200m G","","Blake Spriggs [R61] 57 (2) Starting
+price - $1.90","2nd: Palurien 01:09.99
+2.47L"]}],"runner":"Knickpoint","scratched":false,"sex":"c","silk_text":"ROYAL
+BLUE","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-BEB7E0FAE8B1A0FC261286D39AF45DEA.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"6:3:0:0:0"},{"type":"Fresh90","value":"3:2:0"},{"type":"2nd
+Up","value":"2:1:0"},{"type":"Distance","value":"2:0:0"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"3:2:0"},{"type":"Soft","value":"1:0:0"},{"type":"Heavy","value":"2:1:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"1:0:0"}],"plc_div":null,"plc_rate":"50","prize":"$99,600","prize2":null,"win_div":null,"win_rate":"50"},"trainer":"James
+Cummings","trainer_district":"Agnes Banks","weight":54,"win_record":["10/19
+NCLE G BM64 $38K 1200 [R61] 57 (2) 1:09.99","2nd up 02/20 CANT G BM74 $54K
+1250 [R67] 57 (3)
+1:13.55"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":4,"e_runner":"Fayerra","m_number":11,"r_key":"2020-04-11-m11-r1","r_number":1},{"e_number":8,"e_runner":"Icebath","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":14,"e_runner":"Enchanted
+Heart","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":10,"e_runner":"Rock
+My
+Wand","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":12,"e_runner":"Stick
+\'Em
+Up","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":5,"e_runner":"Gallic
+Chieftain","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":11,"e_runner":"Life
+Less
+Ordinary","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":15,"e_runner":"Delectation
+Girl","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":12,"e_runner":"Soothing","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":"2017-12-13","name":"Jason
+Collett","rides_since_win":0,"stats":[{"type":"Fav","value":"(297:79:46:41)
+.398"},{"type":"Stakes","value":"(146:11:16:16)
+.173"},{"type":"NZCareer","value":"(2348:287:225:236)
+.209"},{"type":"2017S","value":"(6:1:1:0)
+.259"},{"type":"2016S","value":"(5:0:1:1)
+.178"},{"type":"2015S","value":"(2:0:0:0)
+.000"},{"type":"Wint","value":"(503:66:47:64) .226"},{"type":"2nd
+Fav","value":"(303:62:50:46)
+.347"}],"suspended":12},"runner":{"age":3,"barrier":"6","barrier_distance":"54","breeders":null,"breeding":"Sacred
+Falls (NZ)","breeding_extra":"Fabulist (NZ) (by
+Savabeel)","class":null,"colour":"brown","comment":"Held up in straight when
+0.8L 6th Mar 13. Looking
+elsewhere.","fastest":null,"form":"2X116","jockey":"Jason
+Collett","jockey_extra":"","notes":[],"number":8,"owners":"D J Mcgrath, J E
+Mcgrath, D G Basheer, S D Basheer & T G
+Roufos","performance":[{"date":"2020-03-13","filters":["Good"],"record":["K
+GR","13 Mar 2020","10 days 3rd up 6th of 15","KG CLASSIC $220K 1600m
+G","","Christian Reith [R65] 54 (1) Starting price - $51.00","1st: Asiago
+01:36.10 0.8L"]},{"date":"2020-03-03","filters":["Good"],"record":["K GR","03
+Mar 2020","15 days 2nd up 1st of 9","CL1 $38K 1400m G","","Christian Reith
+[R60] 56.5 (7) Starting price - $3.60","2nd: Amitto 01:24.10
+1.3L"]},{"date":"2020-02-17","filters":["Soft"],"record":["BEAU","17 Feb
+2020","209 days 1st up 1st of 9","MDN $24K 1150m S","","Christian Reith 57.5
+(6) Starting price - $2.05","2nd: Dreaming Of Gold 01:08.99
+1.16L"]},{"date":"2019-07-23","filters":["Good"],"record":["WYNG","23 Jul
+2019","129 days 1st up 2nd of 11","MDN $38K 1200m G","","Christian Reith 57.5
+(9) Starting price - $2.50","1st: Street Scream 01:10.19
+3.11L"]},{"date":"2019-03-16","filters":["Heavy"],"record":["RHIL","16 Mar
+2019","9th of 15","MAGICNIGHT $191K 1200m H","12th wd cvr,wide 400,tough
+run","Andrew Adkins 55.5 (11) Starting price - $31.00","1st: Kiamichi 01:13.24
+9.3L"]}],"runner":"Icebath","scratched":false,"sex":"f","silk_text":"RED,
+WHITE MALTESE CROSS AND ARMBANDS, ROYAL BLUE
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-FA8AB5D5DE57253D5AF489270C9ACC30.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"7:2:1:0:0"},{"type":"Fresh90","value":"3:1:1"},{"type":"2nd
+Up","value":"2:1:0"},{"type":"Distance","value":"1:1:0"},{"type":"Course","value":"2:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"5:1:1"},{"type":"Soft","value":"1:1:0"},{"type":"Heavy","value":"1:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"1:1:0"}],"plc_div":null,"plc_rate":"43","prize":"$54,600","prize2":null,"win_div":null,"win_rate":"29"},"trainer":"Brad
+Widdup","trainer_district":"Hawkesbury","weight":54,"win_record":["1st up
+02/20 BEAU S MDN $23K 1150 57.5 (6) 1:08.99","2nd up 03/20 K GR G CL1 $38K
+1400 [R60] 56.5 (7)
+1:24.10"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":3,"e_runner":"Azaly","m_number":11,"r_key":"2020-04-11-m11-r1","r_number":1},{"e_number":9,"e_runner":"Indy
+Car","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":4,"e_runner":"Animate","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":4,"e_runner":"Muntaseera","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":2,"e_runner":"Young
+Rascal","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":2,"e_runner":"Addeybb","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":4,"e_runner":"Miss
+Siska","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":15,"e_runner":"Grey
+Shadow","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Tom
+Marquand","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"7","barrier_distance":"54","breeders":null,"breeding":"Sebring","breeding_extra":"Zulia
+(by Hussonet (USA))","class":null,"colour":"chestnut","comment":"Charged late
+to get up in final bounds at Rand-Kton 1st-up. Place
+hope.","fastest":null,"form":"148X1","jockey":"Tom
+Marquand","jockey_extra":"","notes":[],"number":9,"owners":"G
+Harvey","performance":[{"date":"2020-03-18","filters":["Soft"],"record":["KENS","18
+Mar 2020","123 days 1st up 1st of 9","CG&E; BM70 $54K 1100m S","Settled
+last,bold finish,just","Tommy Berry [R60] 55.5 (7) Starting price -
+$6.50","2nd: Nordicus 01:05.32
+0.1L"]},{"date":"2019-11-16","filters":["Good"],"record":["NCLE","16 Nov
+2019","14 days 8th of 12","SPRING STK $175K 1600m G","5th otr to
+400,out,btld,no danger","Tommy Berry [R60] 56.5 (3) Starting price -
+$8.00","1st: Asiago 01:36.85
+4.05L"]},{"date":"2019-11-02","filters":["Good"],"record":["RHIL","02 Nov
+2019","14 days 4th of 9","3Y BM72 $136K 1400m G","4bk in to 400,tite,wdr
+200,late fin","Tommy Berry [R60] 54 (5) Starting price - $7.00","1st: Rule The
+World 01:22.71
+3.3L"]},{"date":"2019-10-19","filters":["Good"],"record":["NCLE","19 Oct
+2019","1st of 9","3Y MDN $38K 1200m G","","Travis Wolfgram 59 (9) Starting
+price - $3.50","2nd: Mercury 01:11.23 1.03L"]}],"runner":"Indy
+Car","scratched":false,"sex":"g","silk_text":"ROYAL BLUE, WHITE CROSSED
+SASHES","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-19E13479171DAE33B46A80DFA239B5C7.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"4:2:0:0:0"},{"type":"Fresh90","value":"2:2:0"},{"type":"2nd
+Up","value":"1:0:0"},{"type":"Distance","value":"1:0:0"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"3:1:0"},{"type":"Soft","value":"1:1:0"},{"type":"Heavy","value":"0:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"1:1:0"}],"plc_div":null,"plc_rate":"50","prize":"$53,000","prize2":null,"win_div":null,"win_rate":"50"},"trainer":"Anthony
+Cummings","trainer_district":"Randwick","weight":54,"win_record":["10/19 NCLE
+G 3Y MDN $38K 1200 59 (9) 1:11.23","1st up 03/20 KENS S CG&E; BM70 $54K 1100
+[R60] 55.5 (7)
+1:05.32"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":5,"e_runner":"Wheelhouse","m_number":11,"r_key":"2020-04-11-m11-r1","r_number":1},{"e_number":10,"e_runner":"Havin\'
+Fun","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":3,"e_runner":"General
+Soho","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":5,"e_runner":"Swats
+That","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":8,"e_runner":"Human
+Nature","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":6,"e_runner":"Contrition","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":9,"e_runner":"Angel
+of
+Truth","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":3,"e_runner":"Happy
+Clapper","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":10,"e_runner":"Unforgotten","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Sam
+Clipperton","rides_since_win":0,"stats":[{"type":"2nd Fav","value":"(0:0:0:0)
+.000"},{"type":"Fav","value":"(0:0:0:0)
+.000"},{"type":"Stakes","value":"(0:0:0:0)
+.000"},{"type":"NZCareer","value":"(0:0:0:0)
+.000"},{"type":"Wint","value":"(0:0:0:0)
+.000"}],"suspended":0},"runner":{"age":3,"barrier":"9","barrier_distance":"53.5","breeders":null,"breeding":"All
+Too Hard","breeding_extra":"Our Quivira (NZ) (by Spinning World
+(USA))","class":null,"colour":"bay","comment":"Faces stronger opposition now.
+Looking to others.","fastest":null,"form":"X6730","jockey":"Sam
+Clipperton","jockey_extra":"","notes":[],"number":10,"owners":"Ramsey Pastoral
+Pty Ltd (Mgr: S B
+Ramsey)","performance":[{"date":"2020-03-25","filters":["Good"],"record":["W
+FM","25 Mar 2020","16 days 4th up 10th of 11","3Y BM70 $54K 1400m G","","Sam
+Clipperton [R66] 57 (6) Starting price - $10.00","1st: Chat 01:23.19
+6.5L"]},{"date":"2020-03-09","filters":["Soft"],"record":["CANB","09 Mar
+2020","17 days 3rd up 3rd of 9","CANB GNEAS $166K 1400m S","","Sam Clipperton
+[R63] 54 (9) Starting price - $21.00","1st: Promotions 01:23.79
+2.17L"]},{"date":"2020-02-21","filters":["Soft"],"record":["CANT","21 Feb
+2020","14 days 2nd up 7th of 11","BM70 $54K 1250m S","7th otr,peeled
+5wd,steady wd","Ms Rachel King [R64] 55.5 (8) Starting price - $16.00","1st:
+Savoury (NZ) 01:13.91
+3.2L"]},{"date":"2020-02-07","filters":["Heavy"],"record":["CANT","07 Feb
+2020","184 days 1st up 6th of 6","3Y BM64 $54K 1100m H","5th inr,stayed
+inr,few gaps late","Tom Marquand [R64] 59 (3) Starting price - $14.00","1st:
+Willowheart 01:06.79
+2.2L"]},{"date":"2019-08-07","filters":["Good"],"record":["CANT","07 Aug
+2019","7th of 8","BM72 $54K 1250m G","4th inner,battled on","Brenton Avdulla
+[R64] 53.5 (2) Starting price - $4.00","1st: All Too Free 01:13.21
+3L"]}],"runner":"Havin\' Fun","scratched":false,"sex":"f","silk_text":"GREEN,
+WHITE BRACES, YELLOW HOOPED SLEEVES AND
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-59F9AEC41E428D9670CF0C175E379788.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"8:1:0:2:0"},{"type":"Fresh90","value":"2:0:1"},{"type":"2nd
+Up","value":"2:1:0"},{"type":"Distance","value":"3:0:1"},{"type":"Course","value":"1:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"2:0:0"},{"type":"Soft","value":"5:1:2"},{"type":"Heavy","value":"1:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"5:1:2"}],"plc_div":null,"plc_rate":"38","prize":"$69,700","prize2":null,"win_div":null,"win_rate":"12"},"trainer":"John
+Sargent","trainer_district":"Randwick","weight":53.5,"win_record":null},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":11,"e_runner":"Donandkim","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":6,"e_runner":"Time
+Is
+Precious","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"James
+Innes
+Jnr","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"3","barrier_distance":"53","breeders":null,"breeding":"Smart
+Missile","breeding_extra":"Negotiate (by Red Ransom
+(USA))","class":null,"colour":"bay","comment":"Tougher now. Unknown in wet.
+Others better.","fastest":null,"form":"113X9","jockey":"James Innes
+Jnr","jockey_extra":"","notes":[],"number":11,"owners":"G R Williams, Mrs V C
+Williams, A R Devine, D M Costello & Mrs J M Costello
+","performance":[{"date":"2020-03-25","filters":["Good"],"record":["W FM","25
+Mar 2020","130 days 1st up 9th of 11","3Y BM70 $54K 1400m G","","James Innes
+Jnr [R71] 61.5 (11) Starting price - $16.00","1st: Chat 01:23.19
+4.2L"]},{"date":"2019-11-16","filters":["Good"],"record":["NCLE","16 Nov
+2019","13 days 3rd of 12","SPRING STK $175K 1600m G","Hndy,3rd otr 1200,loomed
+200,fght","James Innes Jnr [R66] 56.5 (4) Starting price - $21.00","1st:
+Asiago 01:36.85
+0.84L"]},{"date":"2019-11-03","filters":["Good"],"record":["GOUL","03 Nov
+2019","16 days 1st of 8","CL2 $33K 1600m G","","James Innes Jnr [R63] 58 (8)
+Starting price - $2.60","2nd: Tresse D\'or 01:35.88
+2.77L"]},{"date":"2019-10-18","filters":["Good"],"record":["BATH","18 Oct
+2019","19 days 1st of 7","BM58 $24K 1400m G","","James Innes Jnr [R56] 57.5
+(5) Starting price - $2.00","2nd: Northern Conqueror 01:21.72
+3.51L"]},{"date":"2019-09-29","filters":["Good"],"record":["BATH","29 Sep
+2019","1st of 10","MDN-SW $33K 1400m G","","James Innes Jnr 56.5 (6) Starting
+price - $7.00","2nd: Polished Penny 01:23.13
+1.33L"]}],"runner":"Donandkim","scratched":false,"sex":"g","silk_text":"GOLD,
+ROYAL BLUE HALVES, DIAGONAL STRIPED SLEEVES, ROYAL BLUE
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-8F4BAE2EEA54A15832E94DFDEA3064F2.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"7:3:0:1:0"},{"type":"Fresh90","value":"4:1:0"},{"type":"2nd
+Up","value":"1:1:0"},{"type":"Distance","value":"3:2:0"},{"type":"Course","value":"1:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"7:3:1"},{"type":"Soft","value":"0:0:0"},{"type":"Heavy","value":"0:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"0:0:0"}],"plc_div":null,"plc_rate":"57","prize":"$80,400","prize2":null,"win_div":null,"win_rate":"43"},"trainer":"Gerald
+Ryan","trainer_district":"Rosehill","weight":53,"win_record":["09/19 BATH G
+MDN-SW $32K 1400 56.5 (6) 1:23.13","10/19 BATH G BM58 $23K 1400 [R56] 57.5 (5)
+1:21.72","11/19 GOUL G CL2 $32K 1600 [R63] 58 (8)
+1:35.88"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":8,"e_runner":"Al
+Sahara","m_number":11,"r_key":"2020-04-11-m11-r1","r_number":1},{"e_number":12,"e_runner":"Aesop\'s
+Fable","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":3,"e_runner":"See
+You
+Soon","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":11,"e_runner":"Strange
+Charm","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":8,"e_runner":"Yogi","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":18,"e_runner":"Jen
+Rules","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Jean
+Van
+Overmeire","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"2","barrier_distance":"53","breeders":null,"breeding":"Foxwedge","breeding_extra":"Mallard
+(NZ) (by Falkirk (NZ))","class":null,"colour":"bay brown","comment":"Began
+awkwardly, held up near turn, held up in straight when 3.5L 11th Apr
+2.","fastest":null,"form":"6X520","jockey":"Jean Van
+Overmeire","jockey_extra":"","notes":[],"number":12,"owners":"D N Sewell, J G
+Sargent, Aesop\'s N Z (Mgr: J C Sewell) & Mendoza Racing (Mgr: W G Wilson)
+","performance":[{"date":"2020-04-02","filters":["Soft"],"record":["GOSF","02
+Apr 2020","11 days 3rd up 11st of 14","BM64 $38K 1600m S","","Ms Louise Day
+[R66] 57.5 (13) Starting price - $8.00","1st: Emperor Harada 01:39.02
+3.65L"]},{"date":"2020-03-22","filters":["Good"],"record":["MWBK","22 Mar
+2020","23 days 2nd up 2nd of 10","TIARA $44K 1450m G","","Jean Van Overmeire
+[R67] 57 (4) Starting price - $8.50","1st: Got Your Six 01:24.14
+2.75L"]},{"date":"2020-02-28","filters":["Good"],"record":["CANT","28 Feb
+2020","132 days 1st up 5th of 6","3Y BM64 $54K 1200m G","6th otr,angled wdst
+tn,chased ok","Jean Van Overmeire [R66] 58.5 (6) Starting price -
+$21.00","1st: Electric Girl 01:11.50
+4.8L"]},{"date":"2019-10-19","filters":["Good"],"record":["RAND","19 Oct
+2019","9 days 6th of 8","REG ALLEN $153K 1400m G","Slw,4bk inr,blokd 300,last
+200,late","Jean Van Overmeire [R66] 57.5 (2) Starting price - $31.00","1st:
+Akari 01:21.55
+5.8L"]},{"date":"2019-10-10","filters":["Good"],"record":["WYNG","10 Oct
+2019","1st of 10","CL2 $38K 1600m G","","Jean Van Overmeire [R57] 54 (8)
+Starting price - $7.50","2nd: City of Love 01:37.82
+0.45L"]}],"runner":"Aesop\'s
+Fable","scratched":false,"sex":"f","silk_text":"DARK GREEN AND BROWN HALVES,
+YELLOW
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-00558E6297D7C6B1B8BE8B6DEB6F79B6.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"12:3:1:0:0"},{"type":"Fresh90","value":"3:0:0"},{"type":"2nd
+Up","value":"3:0:1"},{"type":"Distance","value":"5:1:1"},{"type":"Course","value":"1:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"8:2:1"},{"type":"Soft","value":"3:1:0"},{"type":"Heavy","value":"1:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"3:1:0"}],"plc_div":null,"plc_rate":"33","prize":"$62,900","prize2":null,"win_div":null,"win_rate":"25"},"trainer":"John
+Sargent","trainer_district":"Randwick","weight":53,"win_record":["10/19 WYNG G
+CL2 $38K 1600 [R57] 54 (8)
+1:37.82"]},"sire":null,"trainer":null}],"form_title":"Last 5 Starts, 0 = 10th
+or worse, X = Spell (90 days or more), . = Spell (between 30 and 89
+days)","gear_changes":"NEVER LISTEN (3) - Concussion Plates (Front) ON,
+Synthetic Hoof Filler ON. KNICKPOINT (7) - Winkers ON. HAVIN\' FUN (10) -
+Blinkers ON. DONANDKIM (11) - Blinkers
+ON.","id":"2020-04-11-m11-r2","length":1400,"m_date":"2020-04-11","m_name":"Randwick
+Races (NSW)","m_number":11,"r_name":"THE AGENCY SOUTH PACIFIC
+CLASSIC","r_number":2,"rail_position":"+4m Entire
+Circuit","runner_perf_headers":[{"desc":"Racecourse, Direction (Right-
+handed/Clockwise or Left-handed/Anti-
+Clockwise)","header":"Venue"},{"desc":"Date of
+race","header":"Date"},{"desc":"Days since previous start / Start since spell
+/ Finishing position","header":"Finishing position"},{"desc":"Grade and Stake
+/ Race distance / Track conditions","header":"Race"},{"desc":"Race
+review","header":"Review"},{"desc":"Jockey / Horse rating / Weight / Barrier
+Draw / Favouritism / Odds","header":"Jockey/Performance"},{"desc":"First or
+second placed horse / Win time / Margin from winner
+(L=Length)","header":"1st/2nd placed horse, Win Time,
+Margin"}],"runner_stat_descriptions":[{"desc":"Synthetic track conditions.
+Starts : Wins : Placings","type":"Synthetic"},{"desc":"Record when win tote
+favourite. Starts : Wins : Placings","type":"Favourite"},{"desc":"Soft track
+conditions. Starts : Wins : Placings","type":"Soft"},{"desc":"Record on this
+course/track. Starts : Wins : Placings","type":"Course"},{"desc":"Record after
+a break of 90 days or more. Starts : Wins :
+Placings","type":"Fresh90"},{"desc":"Dead track conditions. Starts : Wins :
+Placings","type":"Dead"},{"desc":"Fast track conditions. Starts : Wins :
+Placings","type":"Fast"},{"desc":"Last 12 months summary. Starts : Wins :
+Placings","type":"Last 12"},{"desc":"Record after a break of between 30 and 89
+days. Starts : Wins : Placings","type":"Fresh30"},{"desc":"Career starts.
+Starts : Wins : 2nd placings : 3rd placings : 4th
+placings","type":"All"},{"desc":"Record in Steeple events. Starts : Wins :
+Placings","type":"Steeple"},{"desc":"Good track conditions. Starts : Wins :
+Placings","type":"Good"},{"desc":"Record in Hurdle events. Starts : Wins :
+Placings","type":"Hurdle"},{"desc":"Record when second win tote favourite.
+Starts : Wins : Placings","type":"2nd Fave"},{"desc":"Slow track conditions.
+Starts : Wins : Placings","type":"Slow"},{"desc":"Heavy track conditions.
+Starts : Wins : Placings","type":"Heavy"},{"desc":"Firm track conditions.
+Starts : Wins : Placings","type":"Firm"},{"desc":"Record on right-handed
+racecourses (Clockwise). Starts : Wins : Placings","type":"Right-
+handed"},{"desc":"Record 2nd-up from a spell/break. Starts : Wins :
+Placings","type":"2nd Up"},{"desc":"Record on left-handed racecourses (Anti-
+Clockwise). Starts : Wins : Placings","type":"Left-handed"},{"desc":"Record
+over this distance. Starts : Wins :
+Placings","type":"Distance"}],"speedmap":[],"stake":"$163,000","start":{"$DateTime":1586571000000},"status":"OK","track":"Soft","type":"G","venue":"Randwick","weather":"Overcast"}}},"meetings":{"2020-04-11-m11":{"status":"SUCCESS","data":{"channel":"ts1","class":"3YO
+LISTED","country":"aus","entries":[{"jockey":{"declared_rides":[{"e_number":1,"e_runner":"Postcode","m_number":11,"r_key":"2020-04-11-m11-r1","r_number":1},{"e_number":1,"e_runner":"Yao
+Dash","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":13,"e_runner":"Oakfield
+Missile","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":9,"e_runner":"Vangelic","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":10,"e_runner":"Anaheed","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":8,"e_runner":"Dorothy
+Of
+Oz","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":3,"e_runner":"Hush
+Writer","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":10,"e_runner":"Master
+Of
+Wine","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":3,"e_runner":"Con
+Te
+Partiro","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":1,"e_runner":"I
+Am
+Excited","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Tim
+Clark","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"1","barrier_distance":"59","breeders":null,"breeding":"Smart
+Missile","breeding_extra":"Rahy Storm (USA) (by Rahy
+(USA))","class":null,"colour":"brown","comment":"Usually prominent. Well
+placed from the perfect draw. One of the major
+players.","fastest":null,"form":"114X6","jockey":"Tim
+Clark","jockey_extra":"","notes":[],"number":1,"owners":"Dynamic Syndications
+Racing (Mgr: D W Watt), J W Sutherland, Ms L Cotter, S J McGee, G J McMahon, S
+M Browne, P Bray, J T Storey, Champagne Sundays (Mgr: B Quinn), K T Gunn, N W
+Kim & Almighty Racing Pty Ltd (Mgr: B K
+Ong)","performance":[{"date":"2020-03-07","filters":["Soft"],"record":["RAND","07
+Mar 2020","161 days 1st up 6th of 7","FIREBALL $152K 1100m S","2nd otr to
+400,fght,faded 200m","Nash Rawiller [R82] 56 (2) Starting price - $4.00","1st:
+Villami 01:02.26
+7L"]},{"date":"2019-09-28","filters":["Good"],"record":["RHIL","28 Sep
+2019","21 days 4th of 8","GOLDEN ROSE $1110K 1400m G","Strait to lead,tkld,hdd
+250,fought","Adam Hyeronimus [R72] 56.5 (4) Starting price - $9.50","1st:
+Bivouac 01:21.88
+1.5L"]},{"date":"2019-09-07","filters":["Soft"],"record":["RAND","07 Sep
+2019","17 days 1st of 8","3Y BM72 $136K 1300m S","Strait to
+lead,dictated,kikd,gd rd","Nash Rawiller [R66] 57 (6) Starting price -
+$3.30","2nd: Funstar 01:16.23
+0.5L"]},{"date":"2019-08-21","filters":["Good"],"record":["CANT","21 Aug
+2019","1st of 6","3YCG MDN $54K 1200m G","2nd outer,smart victory","Nash
+Rawiller 57.5 (3) Starting price - $2.00","2nd: Petronius 01:09.48
+3.5L"]}],"runner":"Yao Dash","scratched":false,"sex":"g","silk_text":"WHITE,
+DYNAMIC SYNDICATIONS LOGO, RED
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-03DD643D823AC6B79DA10650E6D14F20.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"4:2:0:0:0"},{"type":"Fresh90","value":"2:1:0"},{"type":"2nd
+Up","value":"1:1:0"},{"type":"Distance","value":"1:0:0"},{"type":"Course","value":"2:1:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"2:1:0"},{"type":"Soft","value":"2:1:0"},{"type":"Heavy","value":"0:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"2:1:0"}],"plc_div":null,"plc_rate":"50","prize":"$176,000","prize2":null,"win_div":null,"win_rate":"50"},"trainer":"Waterhouse/Bott","trainer_district":"Randwick","weight":59,"win_record":["08/19
+CANT G 3YCG MDN $54K 1200 57.5 (3) 1:09.48","09/19 RAND S 3Y BM72 $136K 1300
+[R66] 57 (6)
+1:16.23"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":2,"e_runner":"Hilo","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":1,"e_runner":"McCormack","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":14,"e_runner":"Forbidden
+Love","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":9,"e_runner":"Flit","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":10,"e_runner":"Aspect
+Ratio","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":11,"e_runner":"Sweet
+Thomas","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":6,"e_runner":"Invincible
+Gem","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":5,"e_runner":"Pretty
+in
+Pink","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Rachel
+King","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"5","barrier_distance":"57.5","breeders":null,"breeding":"Lonhro","breeding_extra":"Kona
+(by New Approach (IRE))","class":null,"colour":"bay brown","comment":"Fitter
+for 2 runs back. Excels on rain affected trks. Take
+beating.","fastest":null,"form":"65X13","jockey":"Rachel
+King","jockey_extra":"","notes":[],"number":2,"owners":"Godolphin
+","performance":[{"date":"2020-03-21","filters":["Soft"],"record":["RHIL","21
+Mar 2020","17 days 2nd up 3rd of 8","DARBYMUNRO $152K 1200m S","6th 3w,cvr
+500,out,solid finish wd","Hugh Bowman [R78] 56 (7) Starting price -
+$4.60","1st: California Zimbol 01:10.42
+0.5L"]},{"date":"2020-03-04","filters":["Soft"],"record":["KENS","04 Mar
+2020","116 days 1st up 1st of 7","CG&E; BM70 $54K 1250m S","3rd wide,cruised
+home","Ms Rachel King [R70] 60.5 (6) Starting price - $2.50","2nd: Montserrat
+01:13.88 4.5L"]},{"date":"2019-11-09","filters":["Good"],"record":["FLEM","09
+Nov 2019","7 days 5th of 10","HILTON $192K 1400m G","Strait to lead,kikd,hdd
+200,fght on","Damian Lane [R71] 60 (6) Starting price - $9.50","1st: Banquo
+01:24.09 1.4L"]},{"date":"2019-11-02","filters":["Soft"],"record":["FLEM","02
+Nov 2019","14 days 6th of 10","CARBINE CLUB $545K 1600m S","Soon led,kikd,hdd
+200,no extra","Craig Williams [R72] 57 (9) Starting price - $9.50","1st:
+Dalasan 01:38.05
+4.7L"]},{"date":"2019-10-19","filters":["Good"],"record":["CAUL","19 Oct
+2019","2nd of 10","GOTHIC STAKES $191K 1400m G","Soon led,tkld 300,hdd
+200,fght hard","Damian Lane [R68] 55 (4) Starting price - $3.40","1st: Alabama
+Express 01:23.66
+0.2L"]}],"runner":"Hilo","scratched":false,"sex":"g","silk_text":"ROYAL
+BLUE","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-BEB7E0FAE8B1A0FC261286D39AF45DEA.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"9:3:1:1:0"},{"type":"Fresh90","value":"3:2:0"},{"type":"2nd
+Up","value":"2:1:1"},{"type":"Distance","value":"3:0:1"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"4:1:1"},{"type":"Soft","value":"5:2:1"},{"type":"Heavy","value":"0:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"5:2:1"}],"plc_div":null,"plc_rate":"56","prize":"$176,000","prize2":null,"win_div":null,"win_rate":"33"},"trainer":"James
+Cummings","trainer_district":"Agnes Banks","weight":57.5,"win_record":["1st up
+03/20 KENS S CG&E; BM70 $54K 1250 [R70] 60.5 (6)
+1:13.88"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":3,"e_runner":"Never
+Listen","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":12,"e_runner":"Mary
+Valley","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":3,"e_runner":"Splintex","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":14,"e_runner":"Bangkok","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Robbie
+Dolan","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"8","barrier_distance":"57","breeders":null,"breeding":"Trusting","breeding_extra":"Rose
+O\' War (by Danehill (USA))","class":null,"colour":"brown","comment":"Fitter
+for 9L 5th 900m Mus\'brook trial Good(3) Mar 22. Not
+keen.","fastest":null,"form":"4612X","jockey":"Robbie
+Dolan","jockey_extra":"","notes":[],"number":3,"owners":"Ramsey Pastoral Pty
+Ltd (Mgr: S B
+Ramsey)","performance":[{"date":"2019-11-07","filters":["Good"],"record":["FLEM","07
+Nov 2019","13 days 2nd of 14","VRC OAKS $1090K 2500m G","5bk inr,out wd
+400,ran on strongly","Darryl McLellan [R64] 55.5 (5) Starting price -
+$41.00","1st: Miami Bound (NZ) 02:38.32
+3.25L"]},{"date":"2019-10-25","filters":["Good"],"record":["SCNE","25 Oct
+2019","6 days 1st of 8","BM58 $33K 2200m G","","Darryl McLellan [R54] 54 (3)
+Starting price - $3.60","2nd: Villarrica 02:18.63
+8.16L"]},{"date":"2019-10-19","filters":["Good"],"record":["NCLE","19 Oct
+2019","14 days 6th of 7","CL1-SW $38K 2350m G","","Darryl McLellan [R54] 55.5
+(1) Starting price - $8.50","1st: Amazing Peace 02:31.07
+6.11L"]},{"date":"2019-10-05","filters":["Soft"],"record":["NCLE","05 Oct
+2019","14 days 4th of 12","BM64 $38K 1870m S","","Darryl McLellan [R54] 54 (9)
+Starting price - $21.00","1st: Nothing Too Hard 01:56.51
+1.2L"]},{"date":"2019-09-21","filters":["Good"],"record":["NCLE","21 Sep
+2019","3rd of 6","CL1-SW $38K 1850m G","","Darryl McLellan [R54] 55.5 (5)
+Starting price - $31.00","1st: Carif 01:58.20 3.52L"]}],"runner":"Never
+Listen","scratched":false,"sex":"f","silk_text":"GREEN, WHITE BRACES, YELLOW
+HOOPED SLEEVES AND
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-59F9AEC41E428D9670CF0C175E379788.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"10:2:1:1:0"},{"type":"Fresh90","value":"2:0:0"},{"type":"2nd
+Up","value":"2:0:0"},{"type":"Distance","value":"1:1:0"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"8:2:2"},{"type":"Soft","value":"1:0:0"},{"type":"Heavy","value":"1:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"1:0:0"}],"plc_div":null,"plc_rate":"40","prize":"$248,000","prize2":null,"win_div":null,"win_rate":"20"},"trainer":"John
+Ramsey","trainer_district":"Scone","weight":57,"win_record":["10/19 SCNE G
+BM58 $32K 2200 [R54] 54 (3)
+2:18.63"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":4,"e_runner":"Spend","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":2,"e_runner":"Through
+the
+Cracks","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":1,"e_runner":"Dame
+Giselle","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":1,"e_runner":"Cosmic
+Force","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":3,"e_runner":"Nudge","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":1,"e_runner":"Danon
+Premium","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":17,"e_runner":"Funstar","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":3,"e_runner":"Savatiano","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":"2020-01-01","name":"James
+McDonald","rides_since_win":0,"stats":[{"type":"Fav","value":"(1148:363:229:147)
+.470"},{"type":"2nd Fav","value":"(726:151:136:102)
+.359"},{"type":"Wint","value":"(674:113:104:84)
+.295"},{"type":"2018S","value":"(9:4:3:0)
+.630"},{"type":"2019S","value":"(12:7:2:2)
+.731"},{"type":"NZCareer","value":"(4341:736:627:528)
+.290"},{"type":"Stakes","value":"(364:60:45:31)
+.262"}],"suspended":24},"runner":{"age":3,"barrier":"10","barrier_distance":"57","breeders":null,"breeding":"Snitzel","breeding_extra":"Walk
+With Attitude (by Hussonet (USA))","class":null,"colour":"bay","comment":"Gave
+good account under 60kg last outing. On pacer. Handles the wet. Has
+claims.","fastest":null,"form":"43194","jockey":"James
+McDonald","jockey_extra":"","notes":[],"number":4,"owners":"Spendthrift
+Australia (Mgrs: B W Hughes & G Cuddy) & New South Wales Pastoral Company
+(Mgr: J L
+Muir)","performance":[{"date":"2020-03-28","filters":["Good"],"record":["BDGO","28
+Mar 2020","7 days 4th of 15","BDGO GUINEAS $163K 1400m G","2nd outr, chal tn,
+fght,close","Dwayne Dunn [R78] 60 (3) Starting price - $4.00","1st: Riddle Me
+That 01:24.02
+0.3L"]},{"date":"2020-03-21","filters":["Soft"],"record":["RHIL","21 Mar
+2020","14 days 9th of 9","GEO RYDER $1090K 1500m S","","Tim Clark [R78] 56 (5)
+Starting price - $26.00","1st: Dreamforce 01:30.15
+4.8L"]},{"date":"2020-03-07","filters":["Soft"],"record":["FLEM","07 Mar
+2020","14 days 1st of 11","3Y HCP $148K 1400m S","2nd otr,chl cnr,led
+300,kikd,strong","Dwayne Dunn [R72] 54 (7) Starting price - $4.80","2nd:
+Riddle Me That 01:22.83
+1L"]},{"date":"2020-02-22","filters":["Good"],"record":["CAUL","22 Feb
+2020","21 days 3rd of 7","ZEDITAVE $175K 1200m G","","Dwayne Dunn [R68] 56 (7)
+Starting price - $5.50","1st: He\'ll Haunt Us 01:09.28
+0.4L"]},{"date":"2020-02-01","filters":["Soft"],"record":["CAUL","01 Feb
+2020","4th of 6","MANFRED $174K 1200m S","2nd otr to 300,battled,no
+dash","Dwayne Dunn [R68] 57 (5) Starting price - $4.40","1st: Super Seth
+01:12.83
+4.2L"]}],"runner":"Spend","scratched":false,"sex":"c","silk_text":"ORANGE,
+PURPLE QUARTERS WITH YELLOW
+SEAMS","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-A3672F35BA109A55D89827D9CDE87D0D.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"6:2:0:1:0"},{"type":"Fresh90","value":"2:1:0"},{"type":"2nd
+Up","value":"1:0:1"},{"type":"Distance","value":"2:1:0"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"2:0:1"},{"type":"Soft","value":"3:1:0"},{"type":"Heavy","value":"1:1:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"3:1:0"}],"plc_div":null,"plc_rate":"50","prize":"$209,000","prize2":null,"win_div":null,"win_rate":"33"},"trainer":"M,
+W & J Hawkes","trainer_district":"Rosehill","weight":57,"win_record":["03/20
+FLEM S 3Y HCP $148K 1400 [R72] 54 (7)
+1:22.83"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":5,"e_runner":"Mirra
+Vision","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":15,"e_runner":"Moana
+Jewel","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":13,"e_runner":"Chianti","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":5,"e_runner":"Groundswell","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":7,"e_runner":"Toffee
+Tongue","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":6,"e_runner":"The
+Chosen
+One","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":13,"e_runner":"Melody
+Belle","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":9,"e_runner":"Manicure","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":"2003-05-03","name":"Kerrin
+McEvoy","rides_since_win":8,"stats":[{"type":"Stakes","value":"(55:5:3:8)
+.170"},{"type":"2002S","value":"(33:4:3:5)
+.222"},{"type":"2001S","value":"(67:3:5:7)
+.121"},{"type":"2000S","value":"(37:5:2:5)
+.210"},{"type":"Wint","value":"(36:3:4:3) .173"},{"type":"2nd
+Fav","value":"(0:0:0:0) .000"},{"type":"Fav","value":"(0:0:0:0)
+.000"},{"type":"NZCareer","value":"(166:16:14:18)
+.179"}],"suspended":0},"runner":{"age":3,"barrier":"12","barrier_distance":"54.5","breeders":null,"breeding":"Lonhro","breeding_extra":"Mirrasalo
+(by Redoute\'s Choice)","class":null,"colour":"brown","comment":"Just behind
+the placegetters at Rosehill last time out. Fitter third-
+up.","fastest":null,"form":"11X14","jockey":"Kerrin
+McEvoy","jockey_extra":"","notes":[],"number":5,"owners":"Bennelong Bloodstock
+Pty Ltd (Mgr: P
+Campbell)","performance":[{"date":"2020-03-21","filters":["Soft"],"record":["RHIL","21
+Mar 2020","17 days 2nd up 4th of 8","DARBYMUNRO $152K 1200m S","4th inr to
+400,out,loomed,fght well","Tommy Berry [R72] 54 (2) Starting price -
+$3.70","1st: California Zimbol 01:10.42
+0.7L"]},{"date":"2020-03-04","filters":["Soft"],"record":["KENS","04 Mar
+2020","149 days 1st up 1st of 9","F&M; BM70 $54K 1250m S","Handy wide,brave in
+str","Tommy Berry [R66] 58.5 (5) Starting price - $2.00","2nd: Avon River
+01:13.74 0.5L"]},{"date":"2019-10-07","filters":["Soft"],"record":["W FM","07
+Oct 2019","17 days 1st of 6","3Y BM70 $65K 1200m S","","Tim Clark [R61] 54.5
+(3) Starting price - $3.70","2nd: Special Snap 01:09.89
+0.1L"]},{"date":"2019-09-20","filters":["Soft"],"record":["NCLE","20 Sep
+2019","1st of 10","F&M; MDN-SW $38K 1200m S","","Tommy Berry 55.5 (1) Starting
+price - $3.00","2nd: Rockarosa 01:11.29 1.59L"]}],"runner":"Mirra
+Vision","scratched":false,"sex":"f","silk_text":"ROYAL BLUE, WHITE STARS ON
+SLEEVES, RED CAP, WHITE
+STARS","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-5613149C31EFB7F3CEC5E5D0DD03FDA5.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"4:3:0:0:0"},{"type":"Fresh90","value":"2:2:0"},{"type":"2nd
+Up","value":"2:1:0"},{"type":"Distance","value":"0:0:0"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"0:0:0"},{"type":"Soft","value":"4:3:0"},{"type":"Heavy","value":"0:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"4:3:0"}],"plc_div":null,"plc_rate":"75","prize":"$111,000","prize2":null,"win_div":null,"win_rate":"75"},"trainer":"P
+& P Snowden","trainer_district":"Randwick","weight":54.5,"win_record":["09/19
+NCLE S F&M; MDN-SW $38K 1200 55.5 (1) 1:11.29","10/19 W FM S 3Y BM70 $65K 1200
+[R61] 54.5 (3) 1:09.89","1st up 03/20 KENS S F&M; BM70 $54K 1250 [R66] 58.5
+(5)
+1:13.74"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":6,"e_runner":"Chat","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":12,"e_runner":"Electric
+Girl","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":2,"e_runner":"Away
+Game","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":4,"e_runner":"Colette","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":10,"e_runner":"Etah
+James","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":5,"e_runner":"Vow
+And
+Declare","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":2,"e_runner":"Nettoyer","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":4,"e_runner":"White
+Moss","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10},{"e_number":17,"e_runner":"Yamazaki","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":"2006-03-08","name":"Glen
+Boss","rides_since_win":27,"stats":[{"type":"2010S","value":"(3:0:0:0)
+.000"},{"type":"2009S","value":"(1:0:1:0)
+.556"},{"type":"2008S","value":"(10:0:0:2)
+.067"},{"type":"Wint","value":"(0:0:0:0) .000"},{"type":"2nd
+Fav","value":"(6:1:1:0) .259"},{"type":"Fav","value":"(5:1:1:2)
+.444"},{"type":"Stakes","value":"(25:1:3:2)
+.133"},{"type":"NZCareer","value":"(45:4:4:4)
+.168"}],"suspended":0},"runner":{"age":3,"barrier":"4","barrier_distance":"54","breeders":null,"breeding":"Deep
+Field","breeding_extra":"Only Words (by End Sweep
+(USA))","class":null,"colour":"chestnut","comment":"Good effort from handy
+position to win at W\'wick Fm at latest. Pacy.
+Consider.","fastest":null,"form":"14521","jockey":"Glen
+Boss","jockey_extra":"","notes":[],"number":6,"owners":"Mrs J E Mackay, T J
+Boland, L F Durney, D Findlay, J L Martin, A J Luciano, B G & Mrs J M Gowing,
+B G & Mrs A Mahony, J K & Mrs M Mitchell, J D Goetze, B M & Mrs T Cohen, P M
+Cohen, S Cohen & T M
+Cohen","performance":[{"date":"2020-03-25","filters":["Good"],"record":["W
+FM","25 Mar 2020","16 days 1st of 11","3Y BM70 $54K 1400m G","","Nash Rawiller
+[R68] 60 (1) Starting price - $3.10","2nd: Surreal Step 01:23.19
+0.8L"]},{"date":"2020-03-09","filters":["Soft"],"record":["CANB","09 Mar
+2020","26 days 2nd of 9","CANB GNEAS $166K 1400m S","","Nash Rawiller [R64] 56
+(8) Starting price - $10.00","1st: Promotions 01:23.79
+0.36L"]},{"date":"2020-02-12","filters":["Heavy"],"record":["W FM","12 Feb
+2020","16 days 5th of 10","3Y BM70 $54K 1400m H","","Nash Rawiller [R65] 58.5
+(3) Starting price - $3.80","1st: Thanks To You 01:24.79
+5.5L"]},{"date":"2020-01-27","filters":["Good"],"record":["W FM","27 Jan
+2020","19 days 4th of 12","CG&E; BM70 $65K 1400m G","","Ms Kathy O\'Hara [R65]
+57 (11) Starting price - $6.00","1st: Through the Cracks 01:22.33
+2L"]},{"date":"2020-01-08","filters":["Soft"],"record":["W FM","08 Jan
+2020","1st of 14","BM70 $54K 1300m S","","Ms Kathy O\'Hara [R60] 54.5 (5)
+Starting price - $5.00","2nd: Rari 01:17.36
+0.2L"]}],"runner":"Chat","scratched":false,"sex":"g","silk_text":"DARK BLUE
+AND WHITE HOOPS, WHITE SLEEVES, RED
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-03EB15743E25423043BEFA3322A4099C.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"11:3:1:1:0"},{"type":"Fresh90","value":"2:0:0"},{"type":"2nd
+Up","value":"2:0:0"},{"type":"Distance","value":"6:2:2"},{"type":"Course","value":"1:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"6:2:1"},{"type":"Soft","value":"4:1:1"},{"type":"Heavy","value":"1:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"4:1:1"}],"plc_div":null,"plc_rate":"45","prize":"$144,000","prize2":null,"win_div":null,"win_rate":"27"},"trainer":"John
+Thompson","trainer_district":"Randwick","weight":54,"win_record":["01/20 W FM
+S BM70 $54K 1300 [R60] 54.5 (5) 1:17.36","03/20 W FM G 3Y BM70 $54K 1400 [R68]
+60 (1)
+1:23.19"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":7,"e_runner":"Knickpoint","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":10,"e_runner":"Asharani","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":7,"e_runner":"Philizzy","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":12,"e_runner":"California
+Zimbol","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":5,"e_runner":"Game
+Of
+Thorns","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":4,"e_runner":"Raheen
+House","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":9,"e_runner":"Imaging","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":13,"e_runner":"Amangiri","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":7,"e_runner":"Fasika","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Brenton
+Avdulla","rides_since_win":0,"stats":[{"type":"2013S","value":"(3:0:0:0)
+.000"},{"type":"Wint","value":"(0:0:0:0) .000"},{"type":"2nd
+Fav","value":"(0:0:0:0) .000"},{"type":"Fav","value":"(0:0:0:0)
+.000"},{"type":"Stakes","value":"(3:0:0:0)
+.000"},{"type":"NZCareer","value":"(3:0:0:0)
+.000"}],"suspended":0},"runner":{"age":3,"barrier":"11","barrier_distance":"54","breeders":null,"breeding":"Carlton
+House (USA)","breeding_extra":"Klamath Falls (USA) (by Storm Cat
+(USA))","class":null,"colour":"bay","comment":"Wasn\'t all that far away at
+Canberra last start. Effective wet.
+EW.","fastest":null,"form":"7X414","jockey":"Brenton
+Avdulla","jockey_extra":"","notes":[],"number":7,"owners":"Godolphin
+","performance":[{"date":"2020-03-09","filters":["Soft"],"record":["CANB","09
+Mar 2020","10 days 3rd up 4th of 9","CANB GNEAS $166K 1400m S","","Kerrin
+McEvoy [R72] 56 (1) Starting price - $2.20","1st: Promotions 01:23.79
+2.87L"]},{"date":"2020-02-28","filters":["Good"],"record":["CANT","28 Feb
+2020","16 days 2nd up 1st of 7","BM74 $54K 1250m G","3-4th inr,thru 1-off
+tn,far too gd","James McDonald [R67] 57 (3) Starting price - $2.10","2nd:
+Crafty Tycoon 01:13.55
+2.3L"]},{"date":"2020-02-12","filters":["Heavy"],"record":["W FM","12 Feb
+2020","95 days 1st up 4th of 11","BM70 $54K 1200m H","Settled 8th,battled
+on","James McDonald [R67] 59 (8) Starting price - $1.60","1st: Epic Dan
+01:12.03 4L"]},{"date":"2019-11-09","filters":["Good"],"record":["FLEM","09
+Nov 2019","21 days 7th of 10","HILTON $192K 1400m G","10th otr,wdst cnr,out
+400,ran on wd","Craig Williams [R68] 58.5 (9) Starting price - $2.40","1st:
+Banquo 01:24.09
+2.6L"]},{"date":"2019-10-19","filters":["Good"],"record":["NCLE","19 Oct
+2019","1st of 9","BM64 $38K 1200m G","","Blake Spriggs [R61] 57 (2) Starting
+price - $1.90","2nd: Palurien 01:09.99
+2.47L"]}],"runner":"Knickpoint","scratched":false,"sex":"c","silk_text":"ROYAL
+BLUE","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-BEB7E0FAE8B1A0FC261286D39AF45DEA.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"6:3:0:0:0"},{"type":"Fresh90","value":"3:2:0"},{"type":"2nd
+Up","value":"2:1:0"},{"type":"Distance","value":"2:0:0"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"3:2:0"},{"type":"Soft","value":"1:0:0"},{"type":"Heavy","value":"2:1:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"1:0:0"}],"plc_div":null,"plc_rate":"50","prize":"$99,600","prize2":null,"win_div":null,"win_rate":"50"},"trainer":"James
+Cummings","trainer_district":"Agnes Banks","weight":54,"win_record":["10/19
+NCLE G BM64 $38K 1200 [R61] 57 (2) 1:09.99","2nd up 02/20 CANT G BM74 $54K
+1250 [R67] 57 (3)
+1:13.55"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":4,"e_runner":"Fayerra","m_number":11,"r_key":"2020-04-11-m11-r1","r_number":1},{"e_number":8,"e_runner":"Icebath","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":14,"e_runner":"Enchanted
+Heart","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":10,"e_runner":"Rock
+My
+Wand","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":12,"e_runner":"Stick
+\'Em
+Up","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":5,"e_runner":"Gallic
+Chieftain","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":11,"e_runner":"Life
+Less
+Ordinary","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":15,"e_runner":"Delectation
+Girl","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":12,"e_runner":"Soothing","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":"2017-12-13","name":"Jason
+Collett","rides_since_win":0,"stats":[{"type":"Fav","value":"(297:79:46:41)
+.398"},{"type":"Stakes","value":"(146:11:16:16)
+.173"},{"type":"NZCareer","value":"(2348:287:225:236)
+.209"},{"type":"2017S","value":"(6:1:1:0)
+.259"},{"type":"2016S","value":"(5:0:1:1)
+.178"},{"type":"2015S","value":"(2:0:0:0)
+.000"},{"type":"Wint","value":"(503:66:47:64) .226"},{"type":"2nd
+Fav","value":"(303:62:50:46)
+.347"}],"suspended":12},"runner":{"age":3,"barrier":"6","barrier_distance":"54","breeders":null,"breeding":"Sacred
+Falls (NZ)","breeding_extra":"Fabulist (NZ) (by
+Savabeel)","class":null,"colour":"brown","comment":"Held up in straight when
+0.8L 6th Mar 13. Looking
+elsewhere.","fastest":null,"form":"2X116","jockey":"Jason
+Collett","jockey_extra":"","notes":[],"number":8,"owners":"D J Mcgrath, J E
+Mcgrath, D G Basheer, S D Basheer & T G
+Roufos","performance":[{"date":"2020-03-13","filters":["Good"],"record":["K
+GR","13 Mar 2020","10 days 3rd up 6th of 15","KG CLASSIC $220K 1600m
+G","","Christian Reith [R65] 54 (1) Starting price - $51.00","1st: Asiago
+01:36.10 0.8L"]},{"date":"2020-03-03","filters":["Good"],"record":["K GR","03
+Mar 2020","15 days 2nd up 1st of 9","CL1 $38K 1400m G","","Christian Reith
+[R60] 56.5 (7) Starting price - $3.60","2nd: Amitto 01:24.10
+1.3L"]},{"date":"2020-02-17","filters":["Soft"],"record":["BEAU","17 Feb
+2020","209 days 1st up 1st of 9","MDN $24K 1150m S","","Christian Reith 57.5
+(6) Starting price - $2.05","2nd: Dreaming Of Gold 01:08.99
+1.16L"]},{"date":"2019-07-23","filters":["Good"],"record":["WYNG","23 Jul
+2019","129 days 1st up 2nd of 11","MDN $38K 1200m G","","Christian Reith 57.5
+(9) Starting price - $2.50","1st: Street Scream 01:10.19
+3.11L"]},{"date":"2019-03-16","filters":["Heavy"],"record":["RHIL","16 Mar
+2019","9th of 15","MAGICNIGHT $191K 1200m H","12th wd cvr,wide 400,tough
+run","Andrew Adkins 55.5 (11) Starting price - $31.00","1st: Kiamichi 01:13.24
+9.3L"]}],"runner":"Icebath","scratched":false,"sex":"f","silk_text":"RED,
+WHITE MALTESE CROSS AND ARMBANDS, ROYAL BLUE
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-FA8AB5D5DE57253D5AF489270C9ACC30.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"7:2:1:0:0"},{"type":"Fresh90","value":"3:1:1"},{"type":"2nd
+Up","value":"2:1:0"},{"type":"Distance","value":"1:1:0"},{"type":"Course","value":"2:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"5:1:1"},{"type":"Soft","value":"1:1:0"},{"type":"Heavy","value":"1:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"1:1:0"}],"plc_div":null,"plc_rate":"43","prize":"$54,600","prize2":null,"win_div":null,"win_rate":"29"},"trainer":"Brad
+Widdup","trainer_district":"Hawkesbury","weight":54,"win_record":["1st up
+02/20 BEAU S MDN $23K 1150 57.5 (6) 1:08.99","2nd up 03/20 K GR G CL1 $38K
+1400 [R60] 56.5 (7)
+1:24.10"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":3,"e_runner":"Azaly","m_number":11,"r_key":"2020-04-11-m11-r1","r_number":1},{"e_number":9,"e_runner":"Indy
+Car","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":4,"e_runner":"Animate","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":4,"e_runner":"Muntaseera","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":2,"e_runner":"Young
+Rascal","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":2,"e_runner":"Addeybb","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":4,"e_runner":"Miss
+Siska","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9},{"e_number":15,"e_runner":"Grey
+Shadow","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Tom
+Marquand","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"7","barrier_distance":"54","breeders":null,"breeding":"Sebring","breeding_extra":"Zulia
+(by Hussonet (USA))","class":null,"colour":"chestnut","comment":"Charged late
+to get up in final bounds at Rand-Kton 1st-up. Place
+hope.","fastest":null,"form":"148X1","jockey":"Tom
+Marquand","jockey_extra":"","notes":[],"number":9,"owners":"G
+Harvey","performance":[{"date":"2020-03-18","filters":["Soft"],"record":["KENS","18
+Mar 2020","123 days 1st up 1st of 9","CG&E; BM70 $54K 1100m S","Settled
+last,bold finish,just","Tommy Berry [R60] 55.5 (7) Starting price -
+$6.50","2nd: Nordicus 01:05.32
+0.1L"]},{"date":"2019-11-16","filters":["Good"],"record":["NCLE","16 Nov
+2019","14 days 8th of 12","SPRING STK $175K 1600m G","5th otr to
+400,out,btld,no danger","Tommy Berry [R60] 56.5 (3) Starting price -
+$8.00","1st: Asiago 01:36.85
+4.05L"]},{"date":"2019-11-02","filters":["Good"],"record":["RHIL","02 Nov
+2019","14 days 4th of 9","3Y BM72 $136K 1400m G","4bk in to 400,tite,wdr
+200,late fin","Tommy Berry [R60] 54 (5) Starting price - $7.00","1st: Rule The
+World 01:22.71
+3.3L"]},{"date":"2019-10-19","filters":["Good"],"record":["NCLE","19 Oct
+2019","1st of 9","3Y MDN $38K 1200m G","","Travis Wolfgram 59 (9) Starting
+price - $3.50","2nd: Mercury 01:11.23 1.03L"]}],"runner":"Indy
+Car","scratched":false,"sex":"g","silk_text":"ROYAL BLUE, WHITE CROSSED
+SASHES","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-19E13479171DAE33B46A80DFA239B5C7.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"4:2:0:0:0"},{"type":"Fresh90","value":"2:2:0"},{"type":"2nd
+Up","value":"1:0:0"},{"type":"Distance","value":"1:0:0"},{"type":"Course","value":"0:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"3:1:0"},{"type":"Soft","value":"1:1:0"},{"type":"Heavy","value":"0:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"1:1:0"}],"plc_div":null,"plc_rate":"50","prize":"$53,000","prize2":null,"win_div":null,"win_rate":"50"},"trainer":"Anthony
+Cummings","trainer_district":"Randwick","weight":54,"win_record":["10/19 NCLE
+G 3Y MDN $38K 1200 59 (9) 1:11.23","1st up 03/20 KENS S CG&E; BM70 $54K 1100
+[R60] 55.5 (7)
+1:05.32"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":5,"e_runner":"Wheelhouse","m_number":11,"r_key":"2020-04-11-m11-r1","r_number":1},{"e_number":10,"e_runner":"Havin\'
+Fun","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":3,"e_runner":"General
+Soho","m_number":11,"r_key":"2020-04-11-m11-r3","r_number":3},{"e_number":5,"e_runner":"Swats
+That","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":8,"e_runner":"Human
+Nature","m_number":11,"r_key":"2020-04-11-m11-r5","r_number":5},{"e_number":6,"e_runner":"Contrition","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":9,"e_runner":"Angel
+of
+Truth","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":3,"e_runner":"Happy
+Clapper","m_number":11,"r_key":"2020-04-11-m11-r8","r_number":8},{"e_number":10,"e_runner":"Unforgotten","m_number":11,"r_key":"2020-04-11-m11-r9","r_number":9}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Sam
+Clipperton","rides_since_win":0,"stats":[{"type":"2nd Fav","value":"(0:0:0:0)
+.000"},{"type":"Fav","value":"(0:0:0:0)
+.000"},{"type":"Stakes","value":"(0:0:0:0)
+.000"},{"type":"NZCareer","value":"(0:0:0:0)
+.000"},{"type":"Wint","value":"(0:0:0:0)
+.000"}],"suspended":0},"runner":{"age":3,"barrier":"9","barrier_distance":"53.5","breeders":null,"breeding":"All
+Too Hard","breeding_extra":"Our Quivira (NZ) (by Spinning World
+(USA))","class":null,"colour":"bay","comment":"Faces stronger opposition now.
+Looking to others.","fastest":null,"form":"X6730","jockey":"Sam
+Clipperton","jockey_extra":"","notes":[],"number":10,"owners":"Ramsey Pastoral
+Pty Ltd (Mgr: S B
+Ramsey)","performance":[{"date":"2020-03-25","filters":["Good"],"record":["W
+FM","25 Mar 2020","16 days 4th up 10th of 11","3Y BM70 $54K 1400m G","","Sam
+Clipperton [R66] 57 (6) Starting price - $10.00","1st: Chat 01:23.19
+6.5L"]},{"date":"2020-03-09","filters":["Soft"],"record":["CANB","09 Mar
+2020","17 days 3rd up 3rd of 9","CANB GNEAS $166K 1400m S","","Sam Clipperton
+[R63] 54 (9) Starting price - $21.00","1st: Promotions 01:23.79
+2.17L"]},{"date":"2020-02-21","filters":["Soft"],"record":["CANT","21 Feb
+2020","14 days 2nd up 7th of 11","BM70 $54K 1250m S","7th otr,peeled
+5wd,steady wd","Ms Rachel King [R64] 55.5 (8) Starting price - $16.00","1st:
+Savoury (NZ) 01:13.91
+3.2L"]},{"date":"2020-02-07","filters":["Heavy"],"record":["CANT","07 Feb
+2020","184 days 1st up 6th of 6","3Y BM64 $54K 1100m H","5th inr,stayed
+inr,few gaps late","Tom Marquand [R64] 59 (3) Starting price - $14.00","1st:
+Willowheart 01:06.79
+2.2L"]},{"date":"2019-08-07","filters":["Good"],"record":["CANT","07 Aug
+2019","7th of 8","BM72 $54K 1250m G","4th inner,battled on","Brenton Avdulla
+[R64] 53.5 (2) Starting price - $4.00","1st: All Too Free 01:13.21
+3L"]}],"runner":"Havin\' Fun","scratched":false,"sex":"f","silk_text":"GREEN,
+WHITE BRACES, YELLOW HOOPED SLEEVES AND
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-59F9AEC41E428D9670CF0C175E379788.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"8:1:0:2:0"},{"type":"Fresh90","value":"2:0:1"},{"type":"2nd
+Up","value":"2:1:0"},{"type":"Distance","value":"3:0:1"},{"type":"Course","value":"1:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"2:0:0"},{"type":"Soft","value":"5:1:2"},{"type":"Heavy","value":"1:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"5:1:2"}],"plc_div":null,"plc_rate":"38","prize":"$69,700","prize2":null,"win_div":null,"win_rate":"12"},"trainer":"John
+Sargent","trainer_district":"Randwick","weight":53.5,"win_record":null},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":11,"e_runner":"Donandkim","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":6,"e_runner":"Time
+Is
+Precious","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"James
+Innes
+Jnr","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"3","barrier_distance":"53","breeders":null,"breeding":"Smart
+Missile","breeding_extra":"Negotiate (by Red Ransom
+(USA))","class":null,"colour":"bay","comment":"Tougher now. Unknown in wet.
+Others better.","fastest":null,"form":"113X9","jockey":"James Innes
+Jnr","jockey_extra":"","notes":[],"number":11,"owners":"G R Williams, Mrs V C
+Williams, A R Devine, D M Costello & Mrs J M Costello
+","performance":[{"date":"2020-03-25","filters":["Good"],"record":["W FM","25
+Mar 2020","130 days 1st up 9th of 11","3Y BM70 $54K 1400m G","","James Innes
+Jnr [R71] 61.5 (11) Starting price - $16.00","1st: Chat 01:23.19
+4.2L"]},{"date":"2019-11-16","filters":["Good"],"record":["NCLE","16 Nov
+2019","13 days 3rd of 12","SPRING STK $175K 1600m G","Hndy,3rd otr 1200,loomed
+200,fght","James Innes Jnr [R66] 56.5 (4) Starting price - $21.00","1st:
+Asiago 01:36.85
+0.84L"]},{"date":"2019-11-03","filters":["Good"],"record":["GOUL","03 Nov
+2019","16 days 1st of 8","CL2 $33K 1600m G","","James Innes Jnr [R63] 58 (8)
+Starting price - $2.60","2nd: Tresse D\'or 01:35.88
+2.77L"]},{"date":"2019-10-18","filters":["Good"],"record":["BATH","18 Oct
+2019","19 days 1st of 7","BM58 $24K 1400m G","","James Innes Jnr [R56] 57.5
+(5) Starting price - $2.00","2nd: Northern Conqueror 01:21.72
+3.51L"]},{"date":"2019-09-29","filters":["Good"],"record":["BATH","29 Sep
+2019","1st of 10","MDN-SW $33K 1400m G","","James Innes Jnr 56.5 (6) Starting
+price - $7.00","2nd: Polished Penny 01:23.13
+1.33L"]}],"runner":"Donandkim","scratched":false,"sex":"g","silk_text":"GOLD,
+ROYAL BLUE HALVES, DIAGONAL STRIPED SLEEVES, ROYAL BLUE
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-8F4BAE2EEA54A15832E94DFDEA3064F2.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"7:3:0:1:0"},{"type":"Fresh90","value":"4:1:0"},{"type":"2nd
+Up","value":"1:1:0"},{"type":"Distance","value":"3:2:0"},{"type":"Course","value":"1:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"7:3:1"},{"type":"Soft","value":"0:0:0"},{"type":"Heavy","value":"0:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"0:0:0"}],"plc_div":null,"plc_rate":"57","prize":"$80,400","prize2":null,"win_div":null,"win_rate":"43"},"trainer":"Gerald
+Ryan","trainer_district":"Rosehill","weight":53,"win_record":["09/19 BATH G
+MDN-SW $32K 1400 56.5 (6) 1:23.13","10/19 BATH G BM58 $23K 1400 [R56] 57.5 (5)
+1:21.72","11/19 GOUL G CL2 $32K 1600 [R63] 58 (8)
+1:35.88"]},"sire":null,"trainer":null},{"jockey":{"declared_rides":[{"e_number":8,"e_runner":"Al
+Sahara","m_number":11,"r_key":"2020-04-11-m11-r1","r_number":1},{"e_number":12,"e_runner":"Aesop\'s
+Fable","m_number":11,"r_key":"2020-04-11-m11-r2","r_number":2},{"e_number":3,"e_runner":"See
+You
+Soon","m_number":11,"r_key":"2020-04-11-m11-r4","r_number":4},{"e_number":11,"e_runner":"Strange
+Charm","m_number":11,"r_key":"2020-04-11-m11-r6","r_number":6},{"e_number":8,"e_runner":"Yogi","m_number":11,"r_key":"2020-04-11-m11-r7","r_number":7},{"e_number":18,"e_runner":"Jen
+Rules","m_number":11,"r_key":"2020-04-11-m11-r10","r_number":10}],"last_injured":null,"last_overseas":null,"last_win":null,"name":"Jean
+Van
+Overmeire","rides_since_win":0,"stats":null,"suspended":0},"runner":{"age":3,"barrier":"2","barrier_distance":"53","breeders":null,"breeding":"Foxwedge","breeding_extra":"Mallard
+(NZ) (by Falkirk (NZ))","class":null,"colour":"bay brown","comment":"Began
+awkwardly, held up near turn, held up in straight when 3.5L 11th Apr
+2.","fastest":null,"form":"6X520","jockey":"Jean Van
+Overmeire","jockey_extra":"","notes":[],"number":12,"owners":"D N Sewell, J G
+Sargent, Aesop\'s N Z (Mgr: J C Sewell) & Mendoza Racing (Mgr: W G Wilson)
+","performance":[{"date":"2020-04-02","filters":["Soft"],"record":["GOSF","02
+Apr 2020","11 days 3rd up 11st of 14","BM64 $38K 1600m S","","Ms Louise Day
+[R66] 57.5 (13) Starting price - $8.00","1st: Emperor Harada 01:39.02
+3.65L"]},{"date":"2020-03-22","filters":["Good"],"record":["MWBK","22 Mar
+2020","23 days 2nd up 2nd of 10","TIARA $44K 1450m G","","Jean Van Overmeire
+[R67] 57 (4) Starting price - $8.50","1st: Got Your Six 01:24.14
+2.75L"]},{"date":"2020-02-28","filters":["Good"],"record":["CANT","28 Feb
+2020","132 days 1st up 5th of 6","3Y BM64 $54K 1200m G","6th otr,angled wdst
+tn,chased ok","Jean Van Overmeire [R66] 58.5 (6) Starting price -
+$21.00","1st: Electric Girl 01:11.50
+4.8L"]},{"date":"2019-10-19","filters":["Good"],"record":["RAND","19 Oct
+2019","9 days 6th of 8","REG ALLEN $153K 1400m G","Slw,4bk inr,blokd 300,last
+200,late","Jean Van Overmeire [R66] 57.5 (2) Starting price - $31.00","1st:
+Akari 01:21.55
+5.8L"]},{"date":"2019-10-10","filters":["Good"],"record":["WYNG","10 Oct
+2019","1st of 10","CL2 $38K 1600m G","","Jean Van Overmeire [R57] 54 (8)
+Starting price - $7.50","2nd: City of Love 01:37.82
+0.45L"]}],"runner":"Aesop\'s
+Fable","scratched":false,"sex":"f","silk_text":"DARK GREEN AND BROWN HALVES,
+YELLOW
+CAP","silk_url":"https://static.tab.co.nz/silks/Raci-37-41-00558E6297D7C6B1B8BE8B6DEB6F79B6.png","sire":null,"stats":{"last12_plc_rate":null,"last12_win_rate":null,"placings":[{"type":"All","value":"12:3:1:0:0"},{"type":"Fresh90","value":"3:0:0"},{"type":"2nd
+Up","value":"3:0:1"},{"type":"Distance","value":"5:1:1"},{"type":"Course","value":"1:0:0"},{"type":"Firm","value":"0:0:0"},{"type":"Good","value":"8:2:1"},{"type":"Soft","value":"3:1:0"},{"type":"Heavy","value":"1:0:0"},{"type":"Synthetic","value":"0:0:0"},{"type":"Fast","value":"0:0:0"},{"type":"Slow","value":"3:1:0"}],"plc_div":null,"plc_rate":"33","prize":"$62,900","prize2":null,"win_div":null,"win_rate":"25"},"trainer":"John
+Sargent","trainer_district":"Randwick","weight":53,"win_record":["10/19 WYNG G
+CL2 $38K 1600 [R57] 54 (8)
+1:37.82"]},"sire":null,"trainer":null}],"form_title":"Last 5 Starts, 0 = 10th
+or worse, X = Spell (90 days or more), . = Spell (between 30 and 89
+days)","gear_changes":"NEVER LISTEN (3) - Concussion Plates (Front) ON,
+Synthetic Hoof Filler ON. KNICKPOINT (7) - Winkers ON. HAVIN\' FUN (10) -
+Blinkers ON. DONANDKIM (11) - Blinkers
+ON.","id":"2020-04-11-m11-r2","length":1400,"m_date":"2020-04-11","m_name":"Randwick
+Races (NSW)","m_number":11,"r_name":"THE AGENCY SOUTH PACIFIC
+CLASSIC","r_number":2,"rail_position":"+4m Entire
+Circuit","runner_perf_headers":[{"desc":"Racecourse, Direction (Right-
+handed/Clockwise or Left-handed/Anti-
+Clockwise)","header":"Venue"},{"desc":"Date of
+race","header":"Date"},{"desc":"Days since previous start / Start since spell
+/ Finishing position","header":"Finishing position"},{"desc":"Grade and Stake
+/ Race distance / Track conditions","header":"Race"},{"desc":"Race
+review","header":"Review"},{"desc":"Jockey / Horse rating / Weight / Barrier
+Draw / Favouritism / Odds","header":"Jockey/Performance"},{"desc":"First or
+second placed horse / Win time / Margin from winner
+(L=Length)","header":"1st/2nd placed horse, Win Time,
+Margin"}],"runner_stat_descriptions":[{"desc":"Synthetic track conditions.
+Starts : Wins : Placings","type":"Synthetic"},{"desc":"Record when win tote
+favourite. Starts : Wins : Placings","type":"Favourite"},{"desc":"Soft track
+conditions. Starts : Wins : Placings","type":"Soft"},{"desc":"Record on this
+course/track. Starts : Wins : Placings","type":"Course"},{"desc":"Record after
+a break of 90 days or more. Starts : Wins :
+Placings","type":"Fresh90"},{"desc":"Dead track conditions. Starts : Wins :
+Placings","type":"Dead"},{"desc":"Fast track conditions. Starts : Wins :
+Placings","type":"Fast"},{"desc":"Last 12 months summary. Starts : Wins :
+Placings","type":"Last 12"},{"desc":"Record after a break of between 30 and 89
+days. Starts : Wins : Placings","type":"Fresh30"},{"desc":"Career starts.
+Starts : Wins : 2nd placings : 3rd placings : 4th
+placings","type":"All"},{"desc":"Record in Steeple events. Starts : Wins :
+Placings","type":"Steeple"},{"desc":"Good track conditions. Starts : Wins :
+Placings","type":"Good"},{"desc":"Record in Hurdle events. Starts : Wins :
+Placings","type":"Hurdle"},{"desc":"Record when second win tote favourite.
+Starts : Wins : Placings","type":"2nd Fave"},{"desc":"Slow track conditions.
+Starts : Wins : Placings","type":"Slow"},{"desc":"Heavy track conditions.
+Starts : Wins : Placings","type":"Heavy"},{"desc":"Firm track conditions.
+Starts : Wins : Placings","type":"Firm"},{"desc":"Record on right-handed
+racecourses (Clockwise). Starts : Wins : Placings","type":"Right-
+handed"},{"desc":"Record 2nd-up from a spell/break. Starts : Wins :
+Placings","type":"2nd Up"},{"desc":"Record on left-handed racecourses (Anti-
+Clockwise). Starts : Wins : Placings","type":"Left-handed"},{"desc":"Record
+over this distance. Starts : Wins :
+Placings","type":"Distance"}],"speedmap":[],"stake":"$163,000","start":{"$DateTime":1586571000000},"status":"OK","track":"Soft","type":"G","venue":"Randwick","weather":"Overcast"}}},"meetingSizes":{"2020-04-11-m11":{"status":"SUCCESS","data":10}}};\n
+var modern = typeof Symbol === \'function\' && typeof Symbol.matchAll ===
+\'symbol\';\n\n var loadScript = function(src, onload) {\n var script =
+document.createElement(\'script\');\n script.src = \'/\' + src;\n
+script.addEventListener(\'load\', onload);\n
+document.head.appendChild(script);\n };\n\n var loadApp = function() {\n var
+fn = \'renderApp\' + Math.floor(Date.now() / 10000);\n
+loadScript(\'main.js?fn=\' + fn, function() {\n window[fn]({ app: \'extended-
+form\', element: div, basePath: \'/extended-form\', state: state });\n });\n
+};\n\n modern ? loadApp() : loadScript(\'corejs.js\', loadApp);\n})();\n\n'
+
