@@ -43,6 +43,7 @@ import glob
 # File imports.
 from RaceEvent import RaceEvent
 from plots import time_vs_distance
+from weightings import weightings_main
 
 def new_race_runners():
     """ Open a text file of runners in the upcoming race.
@@ -156,13 +157,13 @@ def construct_horse_dict(event_array):
         else:
             horse_dict[event.HorseName] += 1
 
-    
+    max_array = [] 
 
     for horse, number in horse_dict.items():
         print("{} : {}".format(horse, number))
-    
+        if number > 10:
+            i += 1
     print(i)
-
     return horse_dict
 
 def print_new_race_form(new_horse_array, event_array):
@@ -197,10 +198,11 @@ def main():
 
     #horse_dict = construct_horse_dict(event_array)
 
-    print_new_race_form(new_horse_array, event_array)
-
+    #print_new_race_form(new_horse_array, event_array)
 
     #time_vs_distance(event_array)
+
+    weightings_main(event_array)
     
 
 main()
