@@ -117,16 +117,18 @@ def construct_event_array():
     event_array = []
     with open('TrainingData.csv', mode='r') as csv_training_file:
         reader = csv.DictReader(csv_training_file)
+
         for row in reader:
-            # Append the array with the RaceEvent class type.
-            event_array.append(RaceEvent(row['Date'], row['JetBet'], row['Track'], row['DayType'], row['MeetingType'], row['Club'], row['MeetingName'],
-            row['TrackCondition'], row['TrackConditionScale'], row['TrackWeather'], row['Rail'], row['RaceID'], row['RaceNumber'], row['RaceGroup'],
-            row['RaceType'], row['Distance'], row['RaceClass'], row['RaceName'], row['Stake'], row['Time'], row['NoAllowances'], row['MinWeight'], row['ClassAge'],	
-            row['Class'], row['ClassGender'], row['ClassWeight'], row['RaceTrackCondition'], row['RaceTrackConditionScale'], row['RaceWeather'],	
-            row['HorseID'], row['ToteNumber'], row['Barrier'], row['HorseName'], row['Age'], row['Gender'], row['Weight'], row['Finishingposition'], row['Actualtime'],	
-            row['Last600mTime'], row['Decimalmargin'], row['Traditionalmargin'], row['Trainer'], row['TrainerLocation'], row['StartingPriceWin'],	
-            row['StartingPricePlace'], row['JockeyName'], row['CarriedWeight'], row['WeightDifference'], row['DomesticRating'], 
-            row['HurdlesRating'], row['SteeplesRating'], row['GearWorn'], row['SireID'], row['Sire'], row['DamID'], row['Dam']))
+            if row['Date'] != 'Date':
+                # Append the array with the RaceEvent class type.
+                event_array.append(RaceEvent(row['Date'], row['JetBet'], row['Track'], row['DayType'], row['MeetingType'], row['Club'], row['MeetingName'],
+                row['TrackCondition'], row['TrackConditionScale'], row['TrackWeather'], row['Rail'], row['RaceID'], row['RaceNumber'], row['RaceGroup'],
+                row['RaceType'], row['Distance'], row['RaceClass'], row['RaceName'], row['Stake'], row['Time'], row['NoAllowances'], row['MinWeight'], row['ClassAge'],	
+                row['Class'], row['ClassGender'], row['ClassWeight'], row['RaceTrackCondition'], row['RaceTrackConditionScale'], row['RaceWeather'],	
+                row['HorseID'], row['ToteNumber'], row['Barrier'], row['HorseName'], row['Age'], row['Gender'], row['Weight'], row['Finishingposition'], row['Actualtime'],	
+                row['Last600mTime'], row['Decimalmargin'], row['Traditionalmargin'], row['Trainer'], row['TrainerLocation'], row['StartingPriceWin'],	
+                row['StartingPricePlace'], row['JockeyName'], row['CarriedWeight'], row['WeightDifference'], row['DomesticRating'], 
+                row['HurdlesRating'], row['SteeplesRating'], row['GearWorn'], row['SireID'], row['Sire'], row['DamID'], row['Dam']))
         
     return event_array
 
@@ -184,14 +186,14 @@ def print_new_race_form(new_horse_array, event_array):
 
 def main(): 
     """ The main function. """
-    new_horse_array = new_race_runners()
+    '''new_horse_array = new_race_runners()
 
     file_array = discover_files()
     
     row_array, fieldnames = read_records(file_array)
     
     compile_records(row_array, fieldnames)
-
+    '''
     event_array = construct_event_array()
 
     #distance_dict = construct_distance_dict(event_array)
@@ -204,5 +206,4 @@ def main():
 
     weightings_main(event_array)
     
-
 main()
