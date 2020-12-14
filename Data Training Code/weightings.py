@@ -68,7 +68,7 @@ def estimate_historical(event_array):
                         barrier_array.append(int(event.Barrier))
                         age_array.append(int(event.Age))
 
-        print(i)
+        #print(i)
 
         # Issue with not enough events causing a singularity.
         try:
@@ -77,14 +77,14 @@ def estimate_historical(event_array):
             A_array = np.array([final_600m_array,weight_array,track_con_array,barrier_array,age_array])
             A_array = np.transpose(A_array)
             #print(A_array.shape)
-            print(trans_y_array.shape)    
+            #print(trans_y_array.shape)    
             trans_A_array = np.transpose(A_array)
             theta = np.dot(trans_A_array,A_array)
             theta = np.linalg.inv(theta)
             theta = np.dot(theta, trans_A_array)
             theta = np.dot(theta, trans_y_array) 
             theta_dict[event_distances[i]] = theta
-            print(theta)
+            #print(theta)
 
             for event in event_array:
                 if event.Distance == event_distances[i]:
@@ -116,13 +116,13 @@ def estimate_historical(event_array):
             plt.subplot(121)
             plt.scatter(est_array, y_array, color=color, alpha=0.2, label=event_distances[i])
 
-            #error = np.absolute(est_array - y_array)
+            error = np.absolute(est_array - y_array)
 
-            #average_error = sum(error) / len(error)
-            #print(average_error)
+            average_error = sum(error) / len(error)
+            print("{} {}".format(event_distances[i], average_error))
 
-            #plt.subplot(122)
-            #plt.scatter(y_array, error)
+            plt.subplot(122)
+            plt.scatter(y_array, error)
 
         except:
             pass
@@ -130,11 +130,10 @@ def estimate_historical(event_array):
 
     for distance, theta in theta_dict.items():
         print("{}, {}".format(distance, theta))
-
-
-    
-
-
+ 
+###################################################################################################
+    return theta_dict
+###################################################################################################
 
 def estimate_filtered_historical(event_array):
     """ Use a Iglewicz and Hoaglin modified Z-score filter to get a better estimation by removing outliers. """
@@ -256,7 +255,7 @@ def estimate_filtered_historical(event_array):
             filtered_est_array = np.array(filtered_est_array)
             filtered_actual_time = np.array(filtered_actual_time)
             
-            error_avg = sum(filtered_actual_time - filtered_est_array) / len(filtered_actual_time)
+            error_avg = sum(abs(abs(filtered_actual_time) - abs(filtered_est_array))) / len(filtered_actual_time)
 
             print("{} : {}".format(event_distances[i], error_avg))
 
@@ -278,13 +277,16 @@ def estimate_filtered_historical(event_array):
 def weightings_main(event_array):
     """ Main function of all the weightings data. """
 
-    estimate_historical(event_array)
+    theta_dict = estimate_historical(event_array)
 
-    estimate_filtered_historical(event_array)
+    #estimate_filtered_historical(event_array)
 
-
-    plt.legend()
     plt.show()
+    
+    return theta_dict
+    
+    #plt.legend()
+    
 
     
 '''

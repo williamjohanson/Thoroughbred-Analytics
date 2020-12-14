@@ -42,7 +42,7 @@ import glob
 
 # File imports.
 from RaceEvent import RaceEvent
-from plots import time_vs_distance
+#from plots import time_vs_distance
 from weightings import weightings_main
 
 def new_race_runners():
@@ -186,14 +186,16 @@ def print_new_race_form(new_horse_array, event_array):
 
 def main(): 
     """ The main function. """
-    '''new_horse_array = new_race_runners()
+    # Required to refresh with new data.
+    ##################################################################################
+    #new_horse_array = new_race_runners()
 
-    file_array = discover_files()
+    #file_array = discover_files()
     
-    row_array, fieldnames = read_records(file_array)
+    #row_array, fieldnames = read_records(file_array)
     
-    compile_records(row_array, fieldnames)
-    '''
+    #compile_records(row_array, fieldnames)
+    ###################################################################################
     event_array = construct_event_array()
 
     #distance_dict = construct_distance_dict(event_array)
@@ -204,6 +206,7 @@ def main():
 
     #time_vs_distance(event_array)
 
-    weightings_main(event_array)
+    theta_dict = weightings_main(event_array)
+
     
 main()
