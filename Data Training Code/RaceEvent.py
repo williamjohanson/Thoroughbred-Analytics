@@ -1,5 +1,10 @@
 #  A race event class definition for saving each instance of a race to a class.
 
+# - Add in functionality to within the class.
+# - Convert times to ms within here to simplify down the line?
+
+
+""" Take all the data from the given .csv files and assign it to a class type. """
 class RaceEvent:
 
     def __init__(self, Date, JetBet, Track, DayType, MeetingType, Club, MeetingName,
