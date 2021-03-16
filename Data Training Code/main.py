@@ -53,6 +53,9 @@ from RaceEvent import RaceEvent
 from weightings import weightings_main
 from compile_records import *
 from construct_data_arrays import *
+from event_rating import *
+from new_race import *
+
 ###################################################################################################
 ###################################################################################################
 
@@ -63,19 +66,29 @@ def main():
     """ The main function. """
     # Required to refresh with new data.
     ##################################################################################
-    new_horse_array = new_race_runners()
 
-    file_array = discover_files()
+    #file_array = discover_files()
     
-    row_array, fieldnames = read_records(file_array)
+    #row_array, fieldnames = read_records(file_array)
     
-    compile_records(row_array, fieldnames)
+    #compile_records(row_array, fieldnames)
     ###################################################################################
+
     event_array = construct_event_array()
 
-    #distance_dict = construct_distance_dict(event_array)
+    horse_dict = construct_horse_dict(event_array)
 
-    #horse_dict = construct_horse_dict(event_array)
+    theta_dict = weightings_main(event_array)
+    
+    horse_event_error_dict = find_error(event_array, theta_dict, horse_dict)
+    while(1):
+        new_horse_array = open_new_race()
+
+        return_horse_error_data(new_horse_array, horse_event_error_dict)
+
+        compile_horse_error_data(new_horse_array, horse_event_error_dict)
+
+    #distance_dict = construct_distance_dict(event_array)
 
     #print_new_race_form(new_horse_array, event_array)
 

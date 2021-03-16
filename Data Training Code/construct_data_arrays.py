@@ -7,7 +7,8 @@ import csv
 import glob
 ###################################################################################################
 ###################################################################################################
-
+# File imports.
+from RaceEvent import RaceEvent
 
 ###################################################################################################
 ###################################################################################################
@@ -47,8 +48,8 @@ def construct_distance_dict(event_array):
         else:
             distance_dict[event.Distance] += 1
 
-    for distance, number in distance_dict.items():
-        print("{} : {}".format(distance, number))
+    #for distance, number in distance_dict.items():
+    #    print("{} : {}".format(distance, number))
 
 
     return distance_dict
@@ -72,11 +73,11 @@ def construct_horse_dict(event_array):
 
     max_array = [] 
 
-    for horse, number in horse_dict.items():
-        print("{} : {}".format(horse, number))
-        if number > 10:
-            i += 1
-    print(i)
+    #for horse, number in horse_dict.items():
+    #    print("{} : {}".format(horse, number))
+    #    if number > 10:
+    #        i += 1
+    #print(i)
 
 
     return horse_dict
