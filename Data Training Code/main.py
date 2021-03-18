@@ -81,7 +81,9 @@ def main():
     theta_dict = weightings_main(event_array)
     
     horse_event_error_dict = find_error(event_array, theta_dict, horse_dict)
+
     while(1):
+        
         new_horse_array = open_new_race()
 
         return_horse_error_data(new_horse_array, horse_event_error_dict)

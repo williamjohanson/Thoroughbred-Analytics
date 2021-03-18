@@ -28,6 +28,37 @@ def compile_horse_error_data(new_horse_array, horse_event_error_dict):
         plt.plot()
         print("{} : {} +- {}".format(horse, mean, std_dev))
 
+    i = 0
+    winning_list = []
+
+    while i < 1000:
+        current_winner = ""
+        current_winner_val = -10000
+        
+        for horse, (mean, std_dev) in result_dict.items(): 
+            val = np.random.randn()
+            scaled_value = mean + val * std_dev
+
+            if scaled_value > current_winner_val:
+                current_winner = horse
+                current_winner_val = scaled_value
+        winning_list.append(current_winner)
+
+        i += 1
+        print("Running Simulation {:.2f}%".format(i/1000 * 100))
+
+    print(winning_list)
+
+    for horse in result_dict.keys():
+        wins = 0
+        for winner in winning_list:
+            if winner == horse:
+                wins += 1
+
+        print("{} : {}".format(horse, wins))
+
+
+
 
 
 def return_horse_error_data(new_horse_array, horse_event_error_dict):
