@@ -45,9 +45,8 @@ def compile_horse_error_data(new_horse_array, horse_event_error_dict):
         winning_list.append(current_winner)
 
         i += 1
+        
         print("Running Simulation {:.2f}%".format(i/1000 * 100))
-
-    print(winning_list)
 
     for horse in result_dict.keys():
         wins = 0

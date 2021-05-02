@@ -5,46 +5,68 @@
 def find_error(event_array, theta_dict, horse_dict):
     """ Find the error between expected and actual times to create the variance set at each distance for the time of a race run. """
 
-    horse_event_error_dict = dict() # Value will be an array of errors for each event to the horseName.
-    errors_array = [] # Need all the errors to implement some filtering
+    horse_event_error_dict = dict()     # Value will be an array of errors for each event to the horseName.
+    dam_event_error_dict = dict()       # Value will be an array of errors for each event to the DamID.
+    sire_event_error_dict = dict()      # Value will be an array of errors for each event to the SireID.
+    jockey_event_error_dict = dict()    # Value will be an array of errors for each event to the Jockey.
+    trainer_event_error_dict = dict()   # Value will be an array of errors for each event to the Trainer.
+    errors_array = []                   # Need all the errors to implement some filtering
 
-    for horse_name in horse_dict.keys():
+    #for horse_name in horse_dict.keys():
 
-        horse_result_dict = dict() # Just to observe each horse estimate and actual
-        horse_event_error_array = [] # Create an array to hold the errors then append this array to horse_error_dict.
+        #horse_result_dict = dict()      # Just to observe each horse estimate and actual
+        #horse_event_error_array = []    # Create an array to hold the errors then append this array to horse_error_dict.
 
-        for event in event_array:
+    for event in event_array:
 
-            if horse_name == event.HorseName:
-                
-                try:
-                    theta_distance_set = theta_dict[event.Distance]
-                except KeyError:
-                    pass
+        #if horse_name == event.HorseName:
+            
+        try:
+            theta_distance_set = theta_dict[event.Distance]
+        except KeyError:
+            pass
 
-                # Ensure there is a time value entered in spreadsheet.
-                if (len(event.Actualtime.split(".")) == 3) and (len(event.Last600mTime.split(".")) == 3):
-                    time = event.Actualtime.split(".")                       
-                    milliseconds = int(time[0]) * 6000 + int(time[1]) * 100 + int(time[2])                          # Millisecond sum. 1/100th of a second.
-                    time_600m = event.Last600mTime.split(".")  
-                    milliseconds_600m = int(time_600m[0]) * 6000 + int(time_600m[1]) * 100 + int(time_600m[2])      # Millisecond sum. 1/100th of a second.
+        # Ensure there is a time value entered in spreadsheet.
+        if (len(event.Actualtime.split(".")) == 3) and (len(event.Last600mTime.split(".")) == 3):
+            time = event.Actualtime.split(".")                       
+            milliseconds = int(time[0]) * 6000 + int(time[1]) * 100 + int(time[2])                          # Millisecond sum. 1/100th of a second.
+            time_600m = event.Last600mTime.split(".")  
+            milliseconds_600m = int(time_600m[0]) * 6000 + int(time_600m[1]) * 100 + int(time_600m[2])      # Millisecond sum. 1/100th of a second.
 
-                estimate = theta_distance_set[0] * milliseconds_600m + theta_distance_set[1] * float(event.CarriedWeight) + theta_distance_set[2] * int(event.RaceTrackConditionScale) + theta_distance_set[3] * int(event.Barrier) + theta_distance_set[4] * int(event.Age)
+        estimate = theta_distance_set[0] * milliseconds_600m + theta_distance_set[1] * float(event.CarriedWeight) + theta_distance_set[2] * int(event.RaceTrackConditionScale) + theta_distance_set[3] * int(event.Barrier) + theta_distance_set[4] * int(event.Age) + theta_distance_set[5] * int(event.DomesticRating)
 
-                horse_result_dict[estimate] = milliseconds
-                error_diff = int(estimate - milliseconds)
-                horse_event_error_array.append(error_diff)
-                errors_array.append(error_diff)
+        #orse_result_dict[estimate] = milliseconds
+        error_diff = int(estimate - milliseconds)
 
+        if event.HorseName not in horse_event_error_dict.keys():
+            horse_event_error_dict[event.HorseName] = [error_diff]
+        else:
+            horse_event_error_dict[event.HorseName].append(error_diff)
 
-        # Printing for interest sakes.
-        #print("{}\n".format(horse_name))
+        if event.DamID not in dam_event_error_dict.keys():
+            dam_event_error_dict[event.DamID] = [error_diff]
+        else:
+            dam_event_error_dict[event.DamID].append(error_diff)
 
-        #for est, act in horse_result_dict.items():
-            #print("Estimate - {}, Actual - {}\n".format(est, act))
-        ##########################################################
+        if event.SireID not in sire_event_error_dict.keys():
+            sire_event_error_dict[event.SireID] = [error_diff]
+        else:
+            sire_event_error_dict[event.SireID].append(error_diff)
 
-        horse_event_error_dict[horse_name] = horse_event_error_array
+        if event.JockeyName not in jockey_event_error_dict.keys():
+            jockey_event_error_dict[event.JockeyName] = [error_diff]
+        else:
+            jockey_event_error_dict[event.JockeyName].append(error_diff)
+
+        if event.Trainer not in trainer_event_error_dict.keys():
+            trainer_event_error_dict[event.Trainer] = [error_diff]
+        else:
+            trainer_event_error_dict[event.Trainer].append(error_diff)
+
+            #horse_event_error_array.append(error_diff)
+            #errors_array.append(error_diff)
+
+        #horse_event_error_dict[horse_name] = horse_event_error_array
 
         #for horse, arrays in horse_event_error_dict.items():
         #    print("{} - {}".format(horse, arrays))
@@ -52,7 +74,7 @@ def find_error(event_array, theta_dict, horse_dict):
     print(len(horse_event_error_dict.keys()))
     print(len(horse_dict.keys()))
 
-    return horse_event_error_dict
+    return horse_event_error_dict, dam_event_error_dict, sire_event_error_dict, jockey_event_error_dict, trainer_event_error_dict
 
             
 

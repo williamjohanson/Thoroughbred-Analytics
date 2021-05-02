@@ -55,6 +55,8 @@ from compile_records import *
 from construct_data_arrays import *
 from event_rating import *
 from new_race import *
+from method_testing import *
+from affiliate_ratings import *
 
 ###################################################################################################
 ###################################################################################################
@@ -75,13 +77,27 @@ def main():
     ###################################################################################
 
     event_array = construct_event_array()
-
     horse_dict = construct_horse_dict(event_array)
-
     theta_dict = weightings_main(event_array)
-    
-    horse_event_error_dict = find_error(event_array, theta_dict, horse_dict)
 
+    horse_event_error_dict, dam_event_error_dict, sire_event_error_dict, jockey_event_error_dict, trainer_event_error_dict = find_error(event_array, theta_dict, horse_dict)
+    
+    dam_rating_value_dict = dam_rating(dam_event_error_dict)
+    sire_rating_value_dict = sire_rating(sire_event_error_dict)
+    jockey_rating_value_dict = jockey_rating(jockey_event_error_dict)
+    trainer_rating_value_dict = trainer_rating(trainer_event_error_dict)
+
+    #layer_2_horse_event_error_dict = weight_key_factor_errors(dam_rating_value_dict, sire_rating_value_dict, jockey_rating_value_dict, trainer_rating_value_dict)
+
+    #average_winning_odds(event_array)
+
+    race_ID_dict = seperate_race_events(event_array)
+
+    predicted_winners_dict = estimate_winner(race_ID_dict, event_array, horse_event_error_dict, dam_rating_value_dict, sire_rating_value_dict, jockey_rating_value_dict, trainer_rating_value_dict)
+
+    compare_estimate_to_winners(predicted_winners_dict, event_array)
+    
+'''
     while(1):
         
         new_horse_array = open_new_race()
@@ -89,6 +105,8 @@ def main():
         return_horse_error_data(new_horse_array, horse_event_error_dict)
 
         compile_horse_error_data(new_horse_array, horse_event_error_dict)
+
+'''
 
     #distance_dict = construct_distance_dict(event_array)
 

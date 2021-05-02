@@ -41,10 +41,12 @@ def estimate_historical(event_array):
         track_con_array = []
         barrier_array = []
         age_array = []
+        domestic_rating_array = []
         est_dict = dict()
         est_array = []
         error_array = []
         distance_array = []
+        
 
 
         # Need to keep this for loop as milliseconds = y
@@ -66,12 +68,13 @@ def estimate_historical(event_array):
                         track_con_array.append(int(event.RaceTrackConditionScale))
                         barrier_array.append(int(event.Barrier))
                         age_array.append(int(event.Age))
+                        domestic_rating_array.append(int(event.DomesticRating))
 
         # Issue with not enough events causing a singularity.
         try:
 
             trans_y_array = np.transpose(y_array)
-            A_array = np.array([final_600m_array,weight_array,track_con_array,barrier_array,age_array])
+            A_array = np.array([final_600m_array,weight_array,track_con_array,barrier_array,age_array,domestic_rating_array])
             A_array = np.transpose(A_array)
             #print(A_array.shape)
             #print(trans_y_array.shape)    
@@ -92,7 +95,7 @@ def estimate_historical(event_array):
                         milliseconds_600m = int(time_600m[0]) * 6000 + int(time_600m[1]) * 100 + int(time_600m[2])
 
                         if (milliseconds_600m != 0) and (actual_time != 0):
-                            estimate = theta[0] * milliseconds_600m + theta[1] * float(event.CarriedWeight) + theta[2] * int(event.RaceTrackConditionScale) + theta[3] * int(event.Barrier) + theta[4] * int(event.Age)
+                            estimate = theta[0] * milliseconds_600m + theta[1] * float(event.CarriedWeight) + theta[2] * int(event.RaceTrackConditionScale) + theta[3] * int(event.Barrier) + theta[4] * int(event.Age) + theta[5] * int(event.DomesticRating)
                             #est_dict[event.Distance] = (estimate, actual_time - estimate)
                             est_array.append(estimate)
         
