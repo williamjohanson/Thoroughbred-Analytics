@@ -10,7 +10,7 @@ def dam_rating(dam_event_error_dict):
     dam_rating_value_dict = dict()
 
     for dam_ID, error_array in dam_event_error_dict.items():
-        if len(error_array) > 1:
+        if len(error_array) >= 1:
             error_array.sort()
             mean = sum(error_array) // len(error_array)
             error_range = error_array[-1] - error_array[0]
@@ -30,7 +30,7 @@ def sire_rating(sire_event_error_dict):
     sire_rating_value_dict = dict()
 
     for sire_ID, error_array in sire_event_error_dict.items():
-        if len(error_array) > 1:
+        if len(error_array) >= 1:
             error_array.sort()
             mean = sum(error_array) // len(error_array)
             error_range = error_array[-1] - error_array[0]
@@ -50,7 +50,7 @@ def jockey_rating(jockey_event_error_dict):
     jockey_rating_value_dict = dict()
 
     for jockey, error_array in jockey_event_error_dict.items():
-        if len(error_array) > 1:
+        if len(error_array) >= 1:
             error_array.sort()
             mean = sum(error_array) // len(error_array)
             error_range = error_array[-1] - error_array[0]
@@ -70,7 +70,7 @@ def trainer_rating(trainer_event_error_dict):
     trainer_rating_value_dict = dict()
 
     for trainer, error_array in trainer_event_error_dict.items():
-        if len(error_array) > 1:
+        if len(error_array) >= 1:
             error_array.sort()
             mean = sum(error_array) // len(error_array)
             error_range = error_array[-1] - error_array[0]

@@ -8,6 +8,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import random
 
+from numpy.core.numeric import Inf
+
 ###################################################################################################
 ###################################################################################################
 
@@ -104,7 +106,7 @@ def estimate_winner(race_ID_dict, event_array, horse_event_error_dict, dam_ratin
 
         while i < 100:
             current_winner = ""
-            current_winner_val = -10000
+            current_winner_val = -Inf
             
             for horse, (mean, std_dev) in result_dict.items(): 
                 for event in event_array:
@@ -116,14 +118,22 @@ def estimate_winner(race_ID_dict, event_array, horse_event_error_dict, dam_ratin
                         (mean_jockey, std_dev_jockey) = jockey_rating_value_dict[event.JockeyName]
                         (mean_trainer, std_dev_trainer) = trainer_rating_value_dict[event.Trainer]
 
+                    else:
+                        continue
+
+                    # Create random vals for each std_dev?       
                     val = np.random.randn()
-                    scaled_value = mean + mean_dam + mean_sire + mean_jockey + mean_trainer + val * std_dev + val * std_dev_dam + val * std_dev_sire + val * std_dev_jockey + val * std_dev_trainer
+                    val_dam = np.random.randn()
+                    val_sire = np.random.randn()
+                    val_jockey = np.random.randn()
+                    val_trainer = np.random.randn()
+                    
+                    #scaled_value = mean + mean_dam + mean_sire + mean_jockey + mean_trainer + val * std_dev + val * std_dev_dam + val * std_dev_sire + val * std_dev_jockey + val * std_dev_trainer
+                    scaled_value = mean + mean_dam + mean_sire + mean_jockey + mean_trainer + val * std_dev + val_dam * std_dev_dam + val_sire * std_dev_sire + val_jockey * std_dev_jockey + val_trainer * std_dev_trainer
 
                     if scaled_value > current_winner_val:
                         current_winner = horse
                         current_winner_val = scaled_value
-
-                    break
 
             winning_list.append(current_winner)
 
@@ -147,7 +157,7 @@ def estimate_winner(race_ID_dict, event_array, horse_event_error_dict, dam_ratin
                     current_winner = horse
                     current_winner_num = wins
             
-            predicted_winners_dict[race_number] = (current_winner, current_winner_num/100)
+            predicted_winners_dict[race_number] = (current_winner, current_winner_num/i)
 
         print("Analyzed file {}".format(x))
 
@@ -157,6 +167,7 @@ def estimate_winner(race_ID_dict, event_array, horse_event_error_dict, dam_ratin
 
 def compare_estimate_to_winners(predicted_winners_dict, event_array):
     """ See what the true winners were and identify if value over time. """
+    
     price_sum = 0
     num_win_events = 0
     num_total_events = 0
@@ -230,12 +241,11 @@ def compare_estimate_to_winners(predicted_winners_dict, event_array):
                     
                 except ValueError:
                     pass          
-                
-
+    # Show all distances for now but this will be the useful set.            
+    #distance_set = ['1000', '1200', '1400', '1600', '1800', '2000', '2100']                
     for distance_staked, staked in total_spend_dict.items():
+        #if distance_staked in distance_set:
         for distance_return, returned in total_return_dict.items():
             if distance_staked == distance_return:           
-
                 print("At a distance of {}, ${:.2f} was returned from ${:.2f} staked. \n Giving a return percentage of {:.2f}% :(".format(distance_staked, returned, staked, returned/staked))
-
-
+                

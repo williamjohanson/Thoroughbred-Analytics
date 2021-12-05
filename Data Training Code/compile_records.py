@@ -93,6 +93,8 @@ def compile_records(row_array, fieldnames):
         writer.writerow(fieldnames)
         # Write the rows in row array which is from all the files into the .csv.
         for row in row_array:
+            # Check the row has all the complete information.
+            ### Do something here lol ###
             writer.writerow(row)
 ###################################################################################################
 ###################################################################################################

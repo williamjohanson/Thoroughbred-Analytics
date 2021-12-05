@@ -66,7 +66,7 @@ from affiliate_ratings import *
 ###################################################################################################
 def main(): 
     """ The main function. """
-    # Required to refresh with new data.
+    # Only required to refresh with new data.
     ##################################################################################
 
     #file_array = discover_files()
@@ -74,12 +74,15 @@ def main():
     #row_array, fieldnames = read_records(file_array)
     
     #compile_records(row_array, fieldnames)
+
     ###################################################################################
 
     event_array = construct_event_array()
     horse_dict = construct_horse_dict(event_array)
     theta_dict = weightings_main(event_array)
 
+    horse_event_error_dict = find_error(event_array, theta_dict, horse_dict) 
+    '''
     horse_event_error_dict, dam_event_error_dict, sire_event_error_dict, jockey_event_error_dict, trainer_event_error_dict = find_error(event_array, theta_dict, horse_dict)
     
     dam_rating_value_dict = dam_rating(dam_event_error_dict)
@@ -96,8 +99,8 @@ def main():
     predicted_winners_dict = estimate_winner(race_ID_dict, event_array, horse_event_error_dict, dam_rating_value_dict, sire_rating_value_dict, jockey_rating_value_dict, trainer_rating_value_dict)
 
     compare_estimate_to_winners(predicted_winners_dict, event_array)
-    
-'''
+    '''   
+
     while(1):
         
         new_horse_array = open_new_race()
@@ -105,8 +108,7 @@ def main():
         return_horse_error_data(new_horse_array, horse_event_error_dict)
 
         compile_horse_error_data(new_horse_array, horse_event_error_dict)
-
-'''
+        #compile_horse_error_data(new_horse_array, event_array, horse_event_error_dict, dam_rating_value_dict, sire_rating_value_dict, jockey_rating_value_dict, trainer_rating_value_dict)
 
     #distance_dict = construct_distance_dict(event_array)
 

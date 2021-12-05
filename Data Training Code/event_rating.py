@@ -35,14 +35,14 @@ def find_error(event_array, theta_dict, horse_dict):
 
         estimate = theta_distance_set[0] * milliseconds_600m + theta_distance_set[1] * float(event.CarriedWeight) + theta_distance_set[2] * int(event.RaceTrackConditionScale) + theta_distance_set[3] * int(event.Barrier) + theta_distance_set[4] * int(event.Age) + theta_distance_set[5] * int(event.DomesticRating)
 
-        #orse_result_dict[estimate] = milliseconds
+        #horse_result_dict[estimate] = milliseconds
         error_diff = int(estimate - milliseconds)
 
         if event.HorseName not in horse_event_error_dict.keys():
             horse_event_error_dict[event.HorseName] = [error_diff]
         else:
             horse_event_error_dict[event.HorseName].append(error_diff)
-
+        '''
         if event.DamID not in dam_event_error_dict.keys():
             dam_event_error_dict[event.DamID] = [error_diff]
         else:
@@ -70,11 +70,13 @@ def find_error(event_array, theta_dict, horse_dict):
 
         #for horse, arrays in horse_event_error_dict.items():
         #    print("{} - {}".format(horse, arrays))
-
+        '''
     print(len(horse_event_error_dict.keys()))
     print(len(horse_dict.keys()))
+    #for names in jockey_event_error_dict.keys():
+    #    print(names + "\n")
 
-    return horse_event_error_dict, dam_event_error_dict, sire_event_error_dict, jockey_event_error_dict, trainer_event_error_dict
+    return horse_event_error_dict#, dam_event_error_dict, sire_event_error_dict, jockey_event_error_dict, trainer_event_error_dict
 
             
 

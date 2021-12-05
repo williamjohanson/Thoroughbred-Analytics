@@ -113,7 +113,7 @@ def estimate_historical(event_array):
             g = random.random()
             color = (r, g, b)
 
-            plt.subplot(121)
+            plt.subplot(131)
             plt.scatter(est_array, y_array, color=color, alpha=0.2, label=event_distances[i])
 
             error = est_array - y_array
@@ -121,7 +121,7 @@ def estimate_historical(event_array):
             average_error = sum(error) / len(error)
             print("{} {}".format(event_distances[i], average_error))
 
-            plt.subplot(122)
+            plt.subplot(132)
             
             if average_error < 10000:
                 plt.scatter(event_distances[i], average_error)
